@@ -1,0 +1,101 @@
+﻿@model X.PagedList.PagedList<Core.Entity.Transactions>
+@using Core.Entity.Enums;
+@using X.PagedList;
+@using X.PagedList.Mvc.Core;
+
+
+@{
+    Layout = null;
+
+    var _id = (HttpContextAccessor.HttpContext.Session.GetString(KeyEnums.SessionKeys.UserId.ToString()) != null ? Convert.ToString(HttpContextAccessor.HttpContext.Session.GetString(KeyEnums.SessionKeys.UserId.ToString())) : "");
+    TempData["userid"] = _id;
+    var _role = (HttpContextAccessor.HttpContext.Session.GetString(KeyEnums.SessionKeys.UserRole.ToString()) != null ? Convert.ToString(HttpContextAccessor.HttpContext.Session.GetString(KeyEnums.SessionKeys.UserRole.ToString())) : "");
+    TempData["UserRole"] = _role;
+
+}
+
+@if (Model != null && Model.Count() > 0)
+{
+    string strBorder = "";
+    if (ViewBag.IsExport != null && (bool)ViewBag.IsExport)
+    {
+        strBorder = "border='1'";
+    }
+    <table @strBorder id="transactionsTbl" class="table table-bordered table-hover dataTable dtr-inline transactionsTbl" role="grid" aria-describedby="example2_info">
+        <thead>
+            <tr role="row">
+                <th class="sorting" tabindex="0" aria-controls="transactionsTbl" rowspan="1" colspan="1" aria-label="" id="col_srno">Sr. No</th>
+                <th class="sorting" tabindex="0" aria-controls="transactionsTbl" rowspan="1" colspan="1" aria-label="" id="col_name" style="width: 10%;">User Name</th>
+                <th class="sorting" tabindex="0" aria-controls="transactionsTbl" rowspan="1" colspan="1" aria-label="" id="col_drivername" style="width: 10%;">Driver Name</th>
+                <th class="sorting" tabindex="0" aria-controls="transactionsTbl" rowspan="1" colspan="1" aria-label="" id="col_pickup" style="width: 13.5%;">Pickup Location</th>
+                <th class="sorting" tabindex="0" aria-controls="transactionsTbl" rowspan="1" colspan="1" aria-label="" id="col_drop" style="width: 13.5%;">Drop Location</th>
+                <th class="sorting" tabindex="0" aria-controls="transactionsTbl" rowspan="1" colspan="1" aria-label="" id="col_status">Journey Status</th>
+                <th class="sorting" tabindex="0" aria-controls="transactionsTbl" rowspan="1" colspan="1" aria-label="" id="col_action" style="width: 10%;">Action By</th>
+                <th class="sorting" tabindex="0" aria-controls="transactionsTbl" rowspan="1" colspan="1" aria-label="" id="col_journeystartdatetime">Journey Start DateTime</th>
+                <th class="sorting" tabindex="0" aria-controls="transactionsTbl" rowspan="1" colspan="1" aria-label="" id="col_journeyenddatetime">Journey End DateTime</th>
+                <th class="sorting" tabindex="0" aria-controls="transactionsTbl" rowspan="1" colspan="1" aria-label="" id="col_journeyenddatetime">Updated Date</th>
+                @* <th tabindex="0" aria-controls="schoolAdmin" rowspan="1" colspan="1" style="width: 100px;" >Action</th> *@
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr id="row_@item.ID">
+                    <td>@item.RowNumber</td>
+
+
+                    <td class="wordbreak">@item.UserName</td>  @* Pick Location Latitude *@
+                    <td class="wordbreak">@item.DriverName</td> @* Pick Location Longitude *@
+                    <td class="wordbreak">@item.PickupLocation</td> @* Drop Location Latitude *@
+                    <td class="wordbreak">@item.DropLocation</td> @* Drop Location Longitude *@
+                    <td class="wordbreak">@item.JourneyStatusDateTime</td> @* Driver Location Latitude On Booking *@
+                    <td class="wordbreak">@item.ActionBy</td> @* Driver Location Longitude On Booking *@
+                    <td class="wordbreak">@item.JourneyStartDateTime</td> @* Journey Start DateTime *@
+                    <td class="wordbreak">@item.JourneyEndDateTime</td> @* Journey End DateTime *@
+
+                    @{
+                        try
+                        {
+                            var istSdate = TimeZoneInfo.ConvertTimeFromUtc(Convert.ToDateTime(item.UpdatedDate), TimeZoneInfo.FindSystemTimeZoneById("India Standard Time"));
+                            <td class="wordbreak">@istSdate.ToString("dd/MM/yyyy h:mm tt")</td>
+                        }
+                        catch
+                        {
+                            <td></td>
+                        }
+                    }
+
+                    @* <td class="wordbreak">
+                        @{
+                            var clsColor = "";
+                            var clslockunlock = "";
+                            var Onclick = "";
+                            var fieldDisabled = "";
+                            var strTitle = "";
+                            // if (item.StatusId == 1)
+                            // {
+                            //     //clsColor = "bg-green";
+                            //     clsColor = "btnCust_unlock";
+                            //     clslockunlock = "fa fa-unlock";
+                            //     Onclick = "changeStatus(this,'" + @item.ID + "','0')";
+                            //     strTitle = "Enable";
+                            // }
+                            // else
+                            // {
+                            //     //clsColor = "bg-red";
+                            //     clsColor = "btnCust_lock";
+                            //     clslockunlock = "fa fa-lock";
+                            //     Onclick = "changeStatus(this,'" + @item.ID + "','1')";
+                            //     strTitle = "Disable";
+                            // }
+                            // <a id="Active" data-toggle="tooltip" title="@strTitle" onclick="@Onclick" class="btn-fa-addCustom @clsColor"><i class="@clslockunlock"></i></a>
+
+                            
+                        }
+
+                    </td> *@
+                </tr>
+            }
+        </tbody>
+    </table>
+}

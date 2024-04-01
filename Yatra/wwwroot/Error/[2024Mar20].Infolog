@@ -1,0 +1,44 @@
+LogTime : 5:48:35 PM 
+Module Name : Yatra.Controllers.AdminController (SaveUser())
+
+Error Source : INFOLOG 
+ 
+Error Message : {"objForm":[{"Key":"ID","Value":["17"]},{"Key":"FirstName","Value":["Yuvraj"]},{"Key":"LastName","Value":["Patil"]},{"Key":"PhoneNumber","Value":["835442424242424242vhjvhvj"]}]}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 5:49:41 PM 
+Module Name : Yatra.Controllers.AdminController (SaveUser())
+
+Error Source : INFOLOG 
+ 
+Error Message : {"objForm":[{"Key":"ID","Value":["0"]},{"Key":"FirstName","Value":["Name"]},{"Key":"LastName","Value":["Name"]},{"Key":"PhoneNumber","Value":["53252452245gyhfhfdthfhfhfgh"]}]}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 6:00:39 PM 
+Module Name : Yatra.Controllers.AdminController (SaveUser())
+
+Error Source : INFOLOG 
+ 
+Error Message : {"objForm":[{"Key":"ID","Value":["19"]},{"Key":"FirstName","Value":["Test User"]},{"Key":"LastName","Value":["test"]},{"Key":"UserName","Value":["0123456789"]}]}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 6:00:58 PM 
+Module Name : Yatra.Controllers.AdminController (SaveUser())
+
+Error Source : INFOLOG 
+ 
+Error Message : {"objForm":[{"Key":"ID","Value":["19"]},{"Key":"FirstName","Value":["Test User1"]},{"Key":"LastName","Value":["test1"]},{"Key":"UserName","Value":["1234567891"]}]}
+ 
+ 
+ 
+======================================== 
+ 

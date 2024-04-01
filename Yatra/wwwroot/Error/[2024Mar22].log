@@ -1,0 +1,51 @@
+LogTime : 11:26:49 AM 
+Module Name : Users (GetAllDrivers ())
+
+Error Source : Core .Net SqlClient Data Provider
+ 
+Error Message : Procedure or function Users_GetVehicleDetails has too many arguments specified.
+ 
+Error Message GetMethod FullName : OnError
+ 
+Error Message GetFileName : 
+ 
+Error Message GetFileLineNumber : 0
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 11:26:51 AM 
+Module Name : Core.Business.BusinessFacade.UsersBusinessFacade (GetVehicleDetails ())
+
+Error Source : Anonymously Hosted DynamicMethods Assembly
+ 
+Error Message : Cannot implicitly convert type 'System.Collections.Generic.List<Core.Entity.Users>' to 'Core.Entity.Common.JsonMessage'
+ 
+Error Message GetMethod FullName : CallSite.Target
+ 
+Error Message GetFileName : 
+ 
+Error Message GetFileLineNumber : 0
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 11:47:14 AM 
+Module Name : Core.Business.BusinessFacade.UsersBusinessFacade (GetVehicleDetails ())
+
+Error Source : Core.Business
+ 
+Error Message : Object reference not set to an instance of an object.
+ 
+Error Message GetMethod FullName : UpdateDriverStatus
+ 
+Error Message GetFileName : 
+ 
+Error Message GetFileLineNumber : 0
+ 
+ 
+ 
+======================================== 
+ 

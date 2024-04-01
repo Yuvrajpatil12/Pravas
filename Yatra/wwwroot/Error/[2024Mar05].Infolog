@@ -1,0 +1,352 @@
+LogTime : 1:04:03 PM 
+Module Name : Yatra.Controllers.API.UsersController (SendNotificationToAllDriver(userAPIKey=))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"userAPIKey":""}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 1:08:31 PM 
+Module Name : Yatra.Controllers.API.UsersController (SendNotificationToAllDriver(userAPIKey=))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"userAPIKey":""}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 1:09:19 PM 
+Module Name : Yatra.Controllers.API.UsersController ([FailedCount = 0] SendFirebaseNotification_ForDeposit(FCMs = dT3v7XpLTHOgfU-F7UFKJC:APA91bEHYYMiUqs5BTRPgH1vCRyRkIpb46CBGly6NYrBl5T7yc6wsz7V1qicSrFeD4MyR1ZQsUCpgTGFHtZUEn-YtrdaCG6IncPR2Wibh3HaL5GFKNM4jlF4MYV6Vz9piojnJcY848Dw,SchoolName=,Title= ))
+
+Error Source : 
+ 
+Error Message : Request Received
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 1:58:50 PM 
+Module Name : Yatra.Controllers.API.UsersController (SendNotificationToAllDriver(userAPIKey=))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"userAPIKey":""}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 1:59:09 PM 
+Module Name : Yatra.Controllers.API.UsersController ([FailedCount = 0] SendFirebaseNotification_ForDeposit(FCMs = dT3v7XpLTHOgfU-F7UFKJC:APA91bEHYYMiUqs5BTRPgH1vCRyRkIpb46CBGly6NYrBl5T7yc6wsz7V1qicSrFeD4MyR1ZQsUCpgTGFHtZUEn-YtrdaCG6IncPR2Wibh3HaL5GFKNM4jlF4MYV6Vz9piojnJcY848Dw,SchoolName=,Title= ))
+
+Error Source : 
+ 
+Error Message : Request Received
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 2:25:01 PM 
+Module Name : Yatra.Controllers.API.UsersController (SendNotificationToAllDriver(userAPIKey=))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"userAPIKey":""}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 2:25:01 PM 
+Module Name : Yatra.Controllers.API.UsersController ([FailedCount = 0] SendFirebaseNotification_ForDeposit(FCMs = ee-Fn2XbR-KwLKfzabODJw:APA91bErie-qkZynZAMvXc6zdp8Nvz6NkZZqr39dwAolR9pvgrdJgPss7fKBU6uAA80TA1jbYALc7JV369LLaDpIzELHd6wblFJGh1XJZlKBSCRGWOlOzqUFsLzY7eNUOy-4WL-9qXkn,SchoolName=,Title= ))
+
+Error Source : 
+ 
+Error Message : Request Received
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 2:35:27 PM 
+Module Name : Yatra.Controllers.API.UsersController (GetAllTransactions(userAPIKey=0))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"roleId":0}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 2:43:04 PM 
+Module Name : Yatra.Controllers.API.UsersController (SendNotificationToAllDriver(userAPIKey=))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"userAPIKey":""}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 2:43:06 PM 
+Module Name : Yatra.Controllers.API.UsersController ([FailedCount = 0] SendFirebaseNotification_ForDeposit(FCMs = ee-Fn2XbR-KwLKfzabODJw:APA91bErie-qkZynZAMvXc6zdp8Nvz6NkZZqr39dwAolR9pvgrdJgPss7fKBU6uAA80TA1jbYALc7JV369LLaDpIzELHd6wblFJGh1XJZlKBSCRGWOlOzqUFsLzY7eNUOy-4WL-9qXkn,SchoolName=,Title= ))
+
+Error Source : 
+ 
+Error Message : Request Received
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 2:51:16 PM 
+Module Name : Yatra.Controllers.API.UsersController (SendNotificationToAllDriver(userAPIKey=))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"userAPIKey":""}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 2:55:29 PM 
+Module Name : Yatra.Controllers.API.UsersController (SendNotificationToAllDriver(userAPIKey=))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"userAPIKey":""}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 2:55:38 PM 
+Module Name : Yatra.Controllers.API.UsersController ([FailedCount = 0] SendFirebaseNotification_ForDeposit(FCMs = ee-Fn2XbR-KwLKfzabODJw:APA91bErie-qkZynZAMvXc6zdp8Nvz6NkZZqr39dwAolR9pvgrdJgPss7fKBU6uAA80TA1jbYALc7JV369LLaDpIzELHd6wblFJGh1XJZlKBSCRGWOlOzqUFsLzY7eNUOy-4WL-9qXkn,SchoolName=,Title= ))
+
+Error Source : 
+ 
+Error Message : Request Received
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 3:19:21 PM 
+Module Name : Yatra.Controllers.API.UsersController (SendNotificationToAllDriver(userAPIKey=))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"userAPIKey":""}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 3:19:53 PM 
+Module Name : Yatra.Controllers.API.UsersController ([FailedCount = 0] SendFirebaseNotification_ForDeposit(FCMs = ee-Fn2XbR-KwLKfzabODJw:APA91bErie-qkZynZAMvXc6zdp8Nvz6NkZZqr39dwAolR9pvgrdJgPss7fKBU6uAA80TA1jbYALc7JV369LLaDpIzELHd6wblFJGh1XJZlKBSCRGWOlOzqUFsLzY7eNUOy-4WL-9qXkn,SchoolName=,Title= ))
+
+Error Source : 
+ 
+Error Message : Request Received
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 6:15:56 PM 
+Module Name : Yatra.Controllers.API.UsersController (Booking(transactions=Core.Entity.Transactions))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"transactions":{"ObjectChanged":false,"ID":57,"UUID":null,"UserID":0,"DriverUserID":4,"LocationMasterIDTo":1,"LocationMasterIDFrom":1,"PickLocationLatitude":null,"PickLocationLongitude":null,"DropLocationLatitude":null,"DropLocationLongitude":null,"DriverLocationLatitudeOnBooking":"19.2061988","DriverLocationLongitudeOnBooking":"72.8322081","JourneyStartDateTime":null,"JourneyEndDateTime":null,"VerificationCode":null,"JourneyStatus":5,"JourneyStatusDateTime":"29/02/2024 10:35 AM","UserRequestDatetime":null,"StatusId":null,"CreatedDate":null,"UpdatedDate":null,"RowNumber":0,"ActionUserID":0,"FirstName":null,"LastName":null,"VehicleNo":null}}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 6:16:52 PM 
+Module Name : Yatra.Controllers.API.UsersController (Booking(transactions=Core.Entity.Transactions))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"transactions":{"ObjectChanged":false,"ID":57,"UUID":null,"UserID":0,"DriverUserID":4,"LocationMasterIDTo":1,"LocationMasterIDFrom":1,"PickLocationLatitude":null,"PickLocationLongitude":null,"DropLocationLatitude":null,"DropLocationLongitude":null,"DriverLocationLatitudeOnBooking":"19.2061988","DriverLocationLongitudeOnBooking":"72.8322081","JourneyStartDateTime":null,"JourneyEndDateTime":null,"VerificationCode":null,"JourneyStatus":5,"JourneyStatusDateTime":"29/02/2024 10:35 AM","UserRequestDatetime":null,"StatusId":null,"CreatedDate":null,"UpdatedDate":null,"RowNumber":0,"ActionUserID":0,"FirstName":null,"LastName":null,"VehicleNo":null}}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 6:20:16 PM 
+Module Name : Yatra.Controllers.API.UsersController ([FailedCount = 1] SendFirebaseNotification_ForDeposit(FCMs = dSBxXrjGQl2TrluAU7nbHv:APA91bH7NtzlEsaH5SMRmESVsZ3bovUcDiiG5GqYZl_FYSyu52pHpjJOgoiqmPhT4-dazCyvlwyhvDCU_cTpUTbaoTNkPtjKF4J5Z9lgXWnMU1SJRL8xVawOSju4WSEm9MjXCWR6Uu-L,SchoolName=,Title= ))
+
+Error Source : 
+ 
+Error Message : Request Received
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 6:20:50 PM 
+Module Name : Yatra.Controllers.API.UsersController (SendNotificationToAllDriver(userAPIKey=))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"userAPIKey":""}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 6:21:04 PM 
+Module Name : Yatra.Controllers.API.UsersController ([FailedCount = 0] SendFirebaseNotification_ForDeposit(FCMs = cSC8PhkfRVych8jgUMAwba:APA91bHqltoWyTlVmFBkU9ubYiqjXnOD4CHJdUJ25MCB03ooVnuKfNJd8yfzap2pZtY4ZSUl79aecRVYD3dCBonqnE_h-6KAiVRtclRVhLbpwQ2Dqtlj1SqQSml7cIBen__KXGOGlLe7,SchoolName=,Title= ))
+
+Error Source : 
+ 
+Error Message : Request Received
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 6:21:12 PM 
+Module Name : Yatra.Controllers.API.UsersController (Booking(transactions=Core.Entity.Transactions))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"transactions":{"ObjectChanged":false,"ID":57,"UUID":null,"UserID":0,"DriverUserID":4,"LocationMasterIDTo":1,"LocationMasterIDFrom":1,"PickLocationLatitude":null,"PickLocationLongitude":null,"DropLocationLatitude":null,"DropLocationLongitude":null,"DriverLocationLatitudeOnBooking":"19.2061988","DriverLocationLongitudeOnBooking":"72.8322081","JourneyStartDateTime":null,"JourneyEndDateTime":null,"VerificationCode":null,"JourneyStatus":5,"JourneyStatusDateTime":"29/02/2024 10:35 AM","UserRequestDatetime":null,"StatusId":null,"CreatedDate":null,"UpdatedDate":null,"RowNumber":0,"ActionUserID":0,"FirstName":null,"LastName":null,"VehicleNo":null}}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 6:21:18 PM 
+Module Name : Yatra.Controllers.API.UsersController ([FailedCount = 0] SendFirebaseNotification_ForDeposit(FCMs = cSC8PhkfRVych8jgUMAwba:APA91bHqltoWyTlVmFBkU9ubYiqjXnOD4CHJdUJ25MCB03ooVnuKfNJd8yfzap2pZtY4ZSUl79aecRVYD3dCBonqnE_h-6KAiVRtclRVhLbpwQ2Dqtlj1SqQSml7cIBen__KXGOGlLe7,SchoolName=,Title= ))
+
+Error Source : 
+ 
+Error Message : Request Received
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 6:21:29 PM 
+Module Name : Yatra.Controllers.API.UsersController (Booking(transactions=Core.Entity.Transactions))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"transactions":{"ObjectChanged":false,"ID":57,"UUID":null,"UserID":0,"DriverUserID":4,"LocationMasterIDTo":1,"LocationMasterIDFrom":1,"PickLocationLatitude":null,"PickLocationLongitude":null,"DropLocationLatitude":null,"DropLocationLongitude":null,"DriverLocationLatitudeOnBooking":"19.2061988","DriverLocationLongitudeOnBooking":"72.8322081","JourneyStartDateTime":null,"JourneyEndDateTime":null,"VerificationCode":null,"JourneyStatus":5,"JourneyStatusDateTime":"29/02/2024 10:35 AM","UserRequestDatetime":null,"StatusId":null,"CreatedDate":null,"UpdatedDate":null,"RowNumber":0,"ActionUserID":0,"FirstName":null,"LastName":null,"VehicleNo":null}}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 6:21:44 PM 
+Module Name : Yatra.Controllers.API.UsersController ([FailedCount = 0] SendFirebaseNotification_ForDeposit(FCMs = cSC8PhkfRVych8jgUMAwba:APA91bHqltoWyTlVmFBkU9ubYiqjXnOD4CHJdUJ25MCB03ooVnuKfNJd8yfzap2pZtY4ZSUl79aecRVYD3dCBonqnE_h-6KAiVRtclRVhLbpwQ2Dqtlj1SqQSml7cIBen__KXGOGlLe7,SchoolName=,Title= ))
+
+Error Source : 
+ 
+Error Message : Request Received
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 6:23:10 PM 
+Module Name : Yatra.Controllers.API.UsersController (Booking(transactions=Core.Entity.Transactions))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"transactions":{"ObjectChanged":false,"ID":57,"UUID":null,"UserID":0,"DriverUserID":4,"LocationMasterIDTo":1,"LocationMasterIDFrom":1,"PickLocationLatitude":null,"PickLocationLongitude":null,"DropLocationLatitude":null,"DropLocationLongitude":null,"DriverLocationLatitudeOnBooking":"19.2061988","DriverLocationLongitudeOnBooking":"72.8322081","JourneyStartDateTime":null,"JourneyEndDateTime":null,"VerificationCode":null,"JourneyStatus":2,"JourneyStatusDateTime":"29/02/2024 10:35 AM","UserRequestDatetime":null,"StatusId":null,"CreatedDate":null,"UpdatedDate":null,"RowNumber":0,"ActionUserID":0,"FirstName":null,"LastName":null,"VehicleNo":null}}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 6:23:41 PM 
+Module Name : Yatra.Controllers.API.UsersController (GetAllDrivers(userAPIKey=))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"userAPIKey":""}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 6:24:23 PM 
+Module Name : Yatra.Controllers.API.UsersController (GetAllTransactions(userAPIKey=))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"userAPIKey":""}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 6:26:07 PM 
+Module Name : Yatra.Controllers.API.UsersController (GetAllDrivers(userAPIKey=))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"userAPIKey":""}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 6:27:01 PM 
+Module Name : Yatra.Controllers.API.UsersController (GetAllDrivers(userAPIKey=))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"userAPIKey":""}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 6:29:10 PM 
+Module Name : Yatra.Controllers.API.UsersController (GetAllDrivers(userAPIKey=))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"userAPIKey":""}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 6:30:17 PM 
+Module Name : Yatra.Controllers.API.UsersController (GetAllTransactions(userAPIKey=4))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"roleId":4}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 6:30:23 PM 
+Module Name : Yatra.Controllers.API.UsersController (GetAllTransactions(userAPIKey=3))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"roleId":3}
+ 
+ 
+ 
+======================================== 
+ 

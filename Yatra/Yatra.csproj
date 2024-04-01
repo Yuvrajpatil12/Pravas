@@ -1,0 +1,68 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Core.Business\Core.Business.csproj" />
+    <ProjectReference Include="..\Core.Entity\Core.Entity.csproj" />
+    <ProjectReference Include="..\Core.Resources\Core.Resources.csproj" />
+    <ProjectReference Include="..\Core.Utility\Core.Utility.csproj" />
+  </ItemGroup>
+
+
+	<ItemGroup>
+		<Reference Include="CommonUtilities">
+			<HintPath>REF\CommonUtilities.dll</HintPath>
+		</Reference>
+		<Reference Include="HtmlAgilityPack">
+			<HintPath>REF\HtmlAgilityPack.dll</HintPath>
+		</Reference>
+		<Reference Include="LanguageUtility">
+			<HintPath>REF\LanguageUtility.dll</HintPath>
+		</Reference>
+		<Reference Include="Newtonsoft.Json">
+			<HintPath>REF\Newtonsoft.Json.dll</HintPath>
+		</Reference>
+		<Reference Include="System.Web.Http">
+			<HintPath>REF\System.Web.Http.dll</HintPath>
+		</Reference>
+	</ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\Error\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.2" />
+    <PackageReference Include="Microsoft.AspNetCore.WebSockets" Version="2.2.1" />
+    <PackageReference Include="Microsoft.Extensions.Caching.SqlServer" Version="7.0.12" />
+    <PackageReference Include="RestSharp" Version="110.2.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Annotations" Version="6.5.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="6.5.0" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="7.3.1" />
+    <PackageReference Include="X.PagedList.Mvc.Core" Version="8.4.7" />
+	  
+	
+	  
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Update="Views\Transactions\Index.cshtml">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="Views\Transactions\_List.cshtml">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="Views\Transactions\_ListPartial.cshtml">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+  </ItemGroup>
+
+</Project>

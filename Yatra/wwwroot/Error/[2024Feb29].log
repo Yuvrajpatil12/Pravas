@@ -1,0 +1,90 @@
+LogTime : 12:16:01 PM 
+Module Name : Yatra.Controllers.FirebaseController (SendFirebaseNotification(FCMs:"dSBxXrjGQl2TrluAU7nbHv:APA91bH7NtzlEsaH5SMRmESVsZ3bovUcDiiG5GqYZl_FYSyu52pHpjJOgoiqmPhT4-dazCyvlwyhvDCU_cTpUTbaoTNkPtjKF4J5Z9lgXWnMU1SJRL8xVawOSju4WSEm9MjXCWR6Uu-L", "dhSu5sKKV0jJqdzlgi6c9E:APA91bGJC3NAnk5DDzBi1ee0jLCeCsIz84_yF-VykX0ylnxUa97WHXabWXNkZiRiwtrl7aUxBEm44kniMKoLEbDKOIitQoSt21Sd9rYeZ7RoEXCbC61IZQX3Vhi_s7g6q2P6JOFWEXNn"))
+
+Error Source : Newtonsoft.Json
+ 
+Error Message : After parsing a value an unexpected character was encountered: ". Path 'title', line 3, position 2.
+ 
+Error Message GetMethod FullName : ParsePostValue
+ 
+Error Message GetFileName : 
+ 
+Error Message GetFileLineNumber : 0
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 12:16:40 PM 
+Module Name : Yatra.Controllers.FirebaseController (SendFirebaseNotification(FCMs:"dSBxXrjGQl2TrluAU7nbHv:APA91bH7NtzlEsaH5SMRmESVsZ3bovUcDiiG5GqYZl_FYSyu52pHpjJOgoiqmPhT4-dazCyvlwyhvDCU_cTpUTbaoTNkPtjKF4J5Z9lgXWnMU1SJRL8xVawOSju4WSEm9MjXCWR6Uu-L", "dhSu5sKKV0jJqdzlgi6c9E:APA91bGJC3NAnk5DDzBi1ee0jLCeCsIz84_yF-VykX0ylnxUa97WHXabWXNkZiRiwtrl7aUxBEm44kniMKoLEbDKOIitQoSt21Sd9rYeZ7RoEXCbC61IZQX3Vhi_s7g6q2P6JOFWEXNn"))
+
+Error Source : Newtonsoft.Json
+ 
+Error Message : After parsing a value an unexpected character was encountered: ". Path 'title', line 3, position 2.
+ 
+Error Message GetMethod FullName : ParsePostValue
+ 
+Error Message GetFileName : 
+ 
+Error Message GetFileLineNumber : 0
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 12:19:38 PM 
+Module Name : Yatra.Controllers.FirebaseController (SendFirebaseNotification(FCMs:"dSBxXrjGQl2TrluAU7nbHv:APA91bH7NtzlEsaH5SMRmESVsZ3bovUcDiiG5GqYZl_FYSyu52pHpjJOgoiqmPhT4-dazCyvlwyhvDCU_cTpUTbaoTNkPtjKF4J5Z9lgXWnMU1SJRL8xVawOSju4WSEm9MjXCWR6Uu-L", "dhSu5sKKV0jJqdzlgi6c9E:APA91bGJC3NAnk5DDzBi1ee0jLCeCsIz84_yF-VykX0ylnxUa97WHXabWXNkZiRiwtrl7aUxBEm44kniMKoLEbDKOIitQoSt21Sd9rYeZ7RoEXCbC61IZQX3Vhi_s7g6q2P6JOFWEXNn"))
+
+Error Source : Newtonsoft.Json
+ 
+Error Message : After parsing a value an unexpected character was encountered: ". Path 'title', line 3, position 2.
+ 
+Error Message GetMethod FullName : ParsePostValue
+ 
+Error Message GetFileName : 
+ 
+Error Message GetFileLineNumber : 0
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 12:33:47 PM 
+Module Name : Yatra.Controllers.FirebaseController (SendFirebaseNotification(FCMs:"dSBxXrjGQl2TrluAU7nbHv:APA91bH7NtzlEsaH5SMRmESVsZ3bovUcDiiG5GqYZl_FYSyu52pHpjJOgoiqmPhT4-dazCyvlwyhvDCU_cTpUTbaoTNkPtjKF4J5Z9lgXWnMU1SJRL8xVawOSju4WSEm9MjXCWR6Uu-L", "dhSu5sKKV0jJqdzlgi6c9E:APA91bGJC3NAnk5DDzBi1ee0jLCeCsIz84_yF-VykX0ylnxUa97WHXabWXNkZiRiwtrl7aUxBEm44kniMKoLEbDKOIitQoSt21Sd9rYeZ7RoEXCbC61IZQX3Vhi_s7g6q2P6JOFWEXNn"))
+
+Error Source : Newtonsoft.Json
+ 
+Error Message : After parsing a value an unexpected character was encountered: ". Path 'title', line 3, position 2.
+ 
+Error Message GetMethod FullName : ParsePostValue
+ 
+Error Message GetFileName : 
+ 
+Error Message GetFileLineNumber : 0
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 3:06:48 PM 
+Module Name : Yatra.Controllers.API.UsersController (GetDriverLocation(userAPIKey=))
+
+Error Source : Yatra
+ 
+Error Message : Object reference not set to an instance of an object.
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 3:32:26 PM 
+Module Name : Yatra.Controllers.API.UsersController (GetDriverLocation(userAPIKey=))
+
+Error Source : Yatra
+ 
+Error Message : Attempted to access a missing method.
+ 
+ 
+ 
+======================================== 
+ 

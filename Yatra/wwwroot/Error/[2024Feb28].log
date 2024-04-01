@@ -1,0 +1,117 @@
+LogTime : 11:26:18 AM 
+Module Name : Users (GetDistributorList ())
+
+Error Source : Core .Net SqlClient Data Provider
+ 
+Error Message : Procedure or function 'Users_GetDriverLocation' expects parameter '@UserAPIKey', which was not supplied.
+ 
+Error Message GetMethod FullName : OnError
+ 
+Error Message GetFileName : 
+ 
+Error Message GetFileLineNumber : 0
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 11:45:07 AM 
+Module Name : DataAccess.Command (Execute this.CommandText: (Transactions_SAVE))
+
+Error Source : Core .Net SqlClient Data Provider
+ 
+Error Message : Error converting data type nvarchar to uniqueidentifier.
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 11:45:09 AM 
+Module Name : DatabaseErrors (SetErrorInformation)
+
+Error Source : System.Private.CoreLib
+ 
+Error Message : Could not find a part of the path 'D:\GoPhygital\Yatra\Yatra\bin\Debug\net8.0\xml_Data\DatabaseErrors.xml'.
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 11:48:24 AM 
+Module Name : DataAccess.Command (Execute this.CommandText: (Transactions_SAVE))
+
+Error Source : Core .Net SqlClient Data Provider
+ 
+Error Message : Error converting data type nvarchar to float.
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 11:48:25 AM 
+Module Name : DatabaseErrors (SetErrorInformation)
+
+Error Source : System.Private.CoreLib
+ 
+Error Message : Could not find a part of the path 'D:\GoPhygital\Yatra\Yatra\bin\Debug\net8.0\xml_Data\DatabaseErrors.xml'.
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 11:48:35 AM 
+Module Name : DataAccess.Command (Execute this.CommandText: (Transactions_SAVE))
+
+Error Source : Core .Net SqlClient Data Provider
+ 
+Error Message : Procedure or function 'Transactions_SAVE' expects parameter '@StatusId', which was not supplied.
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 11:48:36 AM 
+Module Name : DatabaseErrors (SetErrorInformation)
+
+Error Source : System.Private.CoreLib
+ 
+Error Message : Could not find a part of the path 'D:\GoPhygital\Yatra\Yatra\bin\Debug\net8.0\xml_Data\DatabaseErrors.xml'.
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 12:49:08 PM 
+Module Name : Users (GetDistributorList ())
+
+Error Source : System.Private.CoreLib
+ 
+Error Message : Failed to load configuration from file 'D:\GoPhygital\Yatra\Yatra\appsettings.json'.
+ 
+Error Message GetMethod FullName : Throw
+ 
+Error Message GetFileName : 
+ 
+Error Message GetFileLineNumber : 0
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 12:52:21 PM 
+Module Name : Users (GetDistributorList ())
+
+Error Source : Core .Net SqlClient Data Provider
+ 
+Error Message : Procedure or function 'Users_GetDriverLocation' expects parameter '@UserAPIKey', which was not supplied.
+ 
+Error Message GetMethod FullName : OnError
+ 
+Error Message GetFileName : 
+ 
+Error Message GetFileLineNumber : 0
+ 
+ 
+ 
+======================================== 
+ 

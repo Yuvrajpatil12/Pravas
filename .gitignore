@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Core.Business/bin
+/Core.Business/obj
+/Core.Entity/bin
+/Core.Entity/obj
+/Core.Resources/bin
+/Core.Resources/obj
+/Core.Utility/bin
+/Core.Utility/obj
+/Yatra/bin
+/Yatra/obj
+/.vs/Yatra

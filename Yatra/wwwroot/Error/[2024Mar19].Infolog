@@ -1,0 +1,11 @@
+LogTime : 4:03:40 PM 
+Module Name : Yatra.Controllers.AdminController (SaveUser())
+
+Error Source : INFOLOG 
+ 
+Error Message : {"objForm":[{"Key":"ID","Value":["0"]},{"Key":"FirstName","Value":["First "]},{"Key":"LastName","Value":["First "]},{"Key":"PhoneNumber","Value":["415252525252"]}]}
+ 
+ 
+ 
+======================================== 
+ 

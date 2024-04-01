@@ -1,0 +1,55 @@
+LogTime : 6:54:45 PM 
+Module Name : Yatra.Controllers.API.UsersController (GetVehicleDetails(userAPIKey=68938CD6-B137-44C0-BBCE-2559D3F06465))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"userAPIKey":"68938CD6-B137-44C0-BBCE-2559D3F06465"}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 6:58:42 PM 
+Module Name : Yatra.Controllers.API.UsersController (GetVehicleDetails(userAPIKey=5EBBDA7C-2714-4B34-8D9F-88E5129A11F7))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"userAPIKey":"5EBBDA7C-2714-4B34-8D9F-88E5129A11F7"}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 6:59:43 PM 
+Module Name : Yatra.Controllers.API.UsersController (GetAllDrivers(userAPIKey=))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"userAPIKey":""}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 7:00:28 PM 
+Module Name : Yatra.Controllers.API.UsersController (GetAllDrivers(userAPIKey=))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"userAPIKey":""}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 7:13:01 PM 
+Module Name : Yatra.Controllers.API.UsersController (GetVehicleDetails(userAPIKey=5EBBDA7C-2714-4B34-8D9F-88E5129A11F7))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"userAPIKey":"5EBBDA7C-2714-4B34-8D9F-88E5129A11F7"}
+ 
+ 
+ 
+======================================== 
+ 

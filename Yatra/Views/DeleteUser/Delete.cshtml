@@ -1,0 +1,256 @@
+﻿@model Core.Entity.Users
+@using Core.Entity.Enums
+@using Microsoft.AspNetCore.Http
+@using Newtonsoft.Json;
+@{
+    ViewData["Title"] = "Delete User";
+    Layout = null;
+    var _role = (HttpContextAccessor.HttpContext.Session.GetString(KeyEnums.SessionKeys.UserRole.ToString()) != null ? Convert.ToString(HttpContextAccessor.HttpContext.Session.GetString(KeyEnums.SessionKeys.UserRole.ToString())) : "");
+    TempData["UserRole"] = _role;
+
+}
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    @*<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />*@
+
+    <!-- Tell the browser to be responsive to screen width -->
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="author" content="Pravas">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+    <meta content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' name='viewport'>
+
+    <!-- Facebook -->
+    <meta property="og:url" content="http://pravas.logthis.in/">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Pravas">
+    <meta property="og:description" content="Pravas">
+    <meta property="og:image" content="http://pravas.logthis.in/images/sharing-with-facebook.jpg">
+    <meta property="og:image:width" content="600">
+    <meta property="og:image:height" content="315">
+
+    <!-- Linkedin -->
+    <meta property="og:image" content="http://pravas.logthis.in/images/sharing-with-linkedin.jpg">
+    <meta property="og:image:width" content="180">
+    <meta property="og:image:height" content="110">
+
+    <!-- Twitter -->
+    <meta name="twitter:image" content="http://pravas.logthis.in/images/sharing-with-twitter.jpg">
+
+    <!-- Write Custom Page Meta Data Here... -->
+    <meta name="title" content="Pravas">
+    <meta name="description" content="Pravas">
+    <meta name="keywords" content="Pravas">
+    <title>Login - Pravas</title>
+
+    <link rel="shortcut icon" href="~/images/favicon.ico" />
+    <!-- Font Awesome -->
+    <link href="~/plugins/fontawesome-free/css/all.min.css" rel="stylesheet" />
+    <!-- Ionicons -->
+    @*<link rel="stylesheet" href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css" />*@
+    <!-- Tempusdominus Bbootstrap 4 -->
+    <link href="~/plugins/tempusdominus-bootstrap-4/css/tempusdominus-bootstrap-4.min.css" rel="stylesheet" />
+    <!-- Theme style -->
+    <link href="~/plugins/AdminLTE/css/AdminLTE.min.css" rel="stylesheet" />
+    <!-- overlayScrollbars -->
+    <link href="~/plugins/overlayScrollbars/css/OverlayScrollbars.min.css" rel="stylesheet" />
+    <!-- Date Picker -->
+    <link href="~/css/bootstrap-datepicker.css" rel="stylesheet" />
+    <!-- Custom style -->
+    <link href="~/css/site.css" rel="stylesheet" />
+    <link href="~/css/jquery-ui.css" rel="stylesheet" />
+    
+</head>
+<body class="hold-transition customLoginRegPage">
+    <div class="card" style="max-width: 600px; width: 100%; margin: 50px auto;">
+        <div class="card-body">
+            <div id="divLoader" class="box">
+                <div class="row">
+                    <div class="col-lg-8">
+                        <form action="../Controllers/DeleteUser/DeleteUsers" id="frmDeleteUser" method="post">
+                            <div class="form-group">
+                                <label for="PhoneNumber">Phone Number <span class="phNoNote">(e.g. +XXXXXXXXXX)</span></label> <span class="starField">*</span>
+                                <input type="text" name="PhoneNumber" id="PhoneNumber" class="form-control numberonly" placeholder="Enter Phone Number" value="" maxlength="13" />
+                            </div>
+                            <div>
+                                <button class="btn btn-default btn-sm" type="button" onclick="history.back()">Back</button>
+                                <button type="button" onclick="deleteUserPhoneNumber()" class="btn btn-primary btn-sm">Delete</button>
+                            </div>
+                        </form>
+                        <div class="clear"></div>
+                    </div>
+                    <div class="clear"></div>
+                </div>
+                <div class="clear"></div>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <div class="clear"></div>
+    </div>
+
+    <!-- jQuery -->
+    <script src="~/js/jquery-2.1.3.js" type="text/javascript"></script>
+    <!-- Bootstrap 4 -->
+    <script src="~/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <!-- Dialogs //Custom JS BS3 to BS4 -->
+    <script src="~/plugins/bs4/bootstrap-dialog.min.js"></script>
+    <script src="~/plugins/bs4/bootstrap-dialog-custom-bs4.js"></script>
+    <!-- Validate -->
+    <script src="~/js/jquery.validate.js" type="text/javascript"></script>
+    <script src="~/js/jquery.validate.unobtrusive.js" type="text/javascript"></script>
+    <!-- overlayScrollbars -->
+    <script src="~/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js"></script>
+    <!-- AdminLTE App -->
+    <script src="~/plugins/AdminLTE/js/AdminLTE.min.js"></script>
+
+    <!-- Global Strings - Content -->
+    <script src="~/js/global.js"></script>
+    <!-- Common functions -->
+    <script src="~/js/common.js"></script>
+    <!-- Login -->
+    <script src="~/js/login.js"></script>
+
+@section Scripts {
+        <script src="~/custom-js/save-validation.js"></script>
+}
+
+
+    <script id="scriptLoader" type="application/htmlMessage">
+        <div class="overlay"></div>
+        <div class="loading-img"></div>
+    </script>
+    <script id="scriptLoaderSmall" type="application/htmlMessage">
+        <div class="overlay"></div>
+        <div class="loading-img-small"></div>
+    </script>
+    <script id="scriptAlert" type="application/htmlMessage">
+        <div class="alert alert-[[CLASS]] alert-dismissable" style="margin-left: 0px;">
+            <!--<i class="fa fa-[[ICON]]"></i>-->
+            <button aria-hidden="true" data-dismiss="alert" class="close" type="button">×</button>
+            [[MESSAGE]]
+        </div>
+    </script>
+
+    <script>
+      
+        $(document).ready(function () {
+            //
+        });
+        function deleteUserPhoneNumber(){
+            var msg = "";
+            var isValid = true;
+            if ($("#PhoneNumber").val() == "") {
+                msg = msg + "Enter Phone Number";
+                isValid = false;
+            }
+            if ($("#PhoneNumber").val().trim() != '') {
+                var regex = /([0-9]{10})|(\([0-9]{3}\)\s+[0-9]{3}\-[0-9]{4})/;
+                if (regex.test($("#PhoneNumber").val().toUpperCase())) {
+                    //$("#lblPANCard").css("visibility", "hidden");
+                    //isValid = true;
+                    //return true;
+                } else {
+                    msg = msg + "Invalid Phone Number";
+                    isValid = false;
+                    //return false;
+                }
+            }
+            if (isValid) {
+                DeleteUsers();
+            }
+            else if (msg != "") {
+                showBSAlert(__requiredCaption, msg, __WARNING);
+            }
+            msg = "";
+        }
+        function DeleteUsers() {
+            var fdata = new FormData();
+
+            // input value
+            $('#frmDeleteUser input').each(function () {
+                if ($(this).attr('id') != undefined) {
+                    fdata.append($(this).attr('id'), $(this).val());
+                }
+            });
+
+            $("#divLoader").append(getLoader());
+
+            $.ajax({
+                url: window.location.origin + '/DeleteUser/DeleteUsers',
+                data: fdata,
+                type: "POST",
+                processData: false,
+                contentType: false,
+                success: function (data) {
+                    if (data.isSuccess) {
+                        BootstrapDialog.show({
+                            id: "divAdduser",
+                            title: __SUCCESS,
+                            type: getDialogType(__SUCCESS),
+                            message: function () {
+                                var $message = $('<div id="divAdduserInner"></div>');
+                                $message.append(data.message);
+                                return $message;
+                            },
+                            closeByBackdrop: false,
+                            buttons: [{
+                                label: __ok,
+                                cssClass: 'btn btn-primary',
+                                action: function (dialogItself) {
+                                    location.href = "/Admin/Index";
+                                    dialogItself.close();
+                                }
+                            }],
+                            onshown: function () {
+                                console.log("IsEdit: " + IsEdit);
+                                if (IsEdit == true) {
+                                    $(".btnContinueToAddNew").css({ "display": "none" });
+                                }
+                                else {
+                                    $(".btnContinueToAddNew").css({ "display": "inline-block" });
+                                }
+                            }
+                        });
+                    }
+                    else if (!data.isSuccess) {
+                        //showBSAlert(data.messageCaption, data.message, __error);
+                        BootstrapDialog.show({
+                            id: "divSaveStudent",
+                            title: __WARNING,
+                            type: getDialogType(__WARNING),
+                            message: function () {
+                                var $message = $('<div id="divSaveStudentInner"></div>');
+                                $message.append(data.message);
+                                return $message;
+                            },
+                            closeByBackdrop: false,
+                            buttons: [{
+                                label: __ok,
+                                cssClass: 'btn btn-primary',
+                                action: function (dialog) {
+                                    location.reload(true);
+                                }
+                            }]
+                        });
+                    }
+                },
+
+                complete: function () {
+                    setTimeout(function () {
+                        removeLoader("#divLoader");
+                    }, 300);
+                },
+                error: function (xhr, ajaxOptions, thrownError) {
+                    setTimeout(function () {
+                    }, 300);
+                    console.log(xhr.error().statusText);
+                }
+            });
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,34 @@
+LogTime : 3:09:29 PM 
+Module Name : Core.Business.DataAccess.Wrapper.Users (getUsersList ())
+
+Error Source : Core .Net SqlClient Data Provider
+ 
+Error Message : Could not find stored procedure 'Users_GetRecordsForUserList'.
+ 
+Error Message GetMethod FullName : OnError
+ 
+Error Message GetFileName : 
+ 
+Error Message GetFileLineNumber : 0
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 3:09:56 PM 
+Module Name : Core.Business.DataAccess.Wrapper.Users (getUsersList ())
+
+Error Source : Core .Net SqlClient Data Provider
+ 
+Error Message : Could not find stored procedure 'Users_GetRecordsForUserList'.
+ 
+Error Message GetMethod FullName : OnError
+ 
+Error Message GetFileName : 
+ 
+Error Message GetFileLineNumber : 0
+ 
+ 
+ 
+======================================== 
+ 

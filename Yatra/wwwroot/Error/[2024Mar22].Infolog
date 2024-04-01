@@ -1,0 +1,275 @@
+LogTime : 11:24:49 AM 
+Module Name : Yatra.Controllers.API.UsersController (GetVehicleDetails(userAPIKey=5EBBDA7C-2714-4B34-8D9F-88E5129A11F7))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"userAPIKey":"5EBBDA7C-2714-4B34-8D9F-88E5129A11F7"}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 11:26:32 AM 
+Module Name : Yatra.Controllers.API.UsersController (UpdateDriverStatus(VehicleDetails=Core.Entity.VehicleDetails))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"vehicleDetails":{"DriverUserID":3,"IsAvailable":0,"AvailableSeats":0,"VehicleType":null,"VehicleNo":null,"StatusId":0,"CreatedDate":"0001-01-01T00:00:00","UpdatedDate":"0001-01-01T00:00:00"}}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 11:28:39 AM 
+Module Name : Yatra.Controllers.API.UsersController (UpdateDriverStatus(VehicleDetails=Core.Entity.VehicleDetails))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"vehicleDetails":{"DriverUserID":3,"IsAvailable":0,"AvailableSeats":0,"VehicleType":null,"VehicleNo":null,"StatusId":0,"CreatedDate":"0001-01-01T00:00:00","UpdatedDate":"0001-01-01T00:00:00"}}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 11:31:04 AM 
+Module Name : Yatra.Controllers.API.UsersController (UpdateDriverStatus(VehicleDetails=Core.Entity.VehicleDetails))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"vehicleDetails":{"DriverUserID":3,"IsAvailable":1,"AvailableSeats":0,"VehicleType":null,"VehicleNo":null,"StatusId":0,"CreatedDate":"0001-01-01T00:00:00","UpdatedDate":"0001-01-01T00:00:00"}}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 11:37:42 AM 
+Module Name : Yatra.Controllers.API.UsersController (UpdateDriverStatus(VehicleDetails=Core.Entity.VehicleDetails))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"vehicleDetails":{"DriverUserID":3,"IsAvailable":1,"AvailableSeats":0,"VehicleType":null,"VehicleNo":null,"StatusId":0,"CreatedDate":"0001-01-01T00:00:00","UpdatedDate":"0001-01-01T00:00:00"}}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 11:38:47 AM 
+Module Name : Yatra.Controllers.API.UsersController (UpdateDriverStatus(VehicleDetails=Core.Entity.VehicleDetails))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"vehicleDetails":{"DriverUserID":3,"IsAvailable":1,"AvailableSeats":0,"VehicleType":null,"VehicleNo":null,"StatusId":0,"CreatedDate":"0001-01-01T00:00:00","UpdatedDate":"0001-01-01T00:00:00"}}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 11:38:57 AM 
+Module Name : Yatra.Controllers.API.UsersController (UpdateDriverStatus(VehicleDetails=Core.Entity.VehicleDetails))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"vehicleDetails":{"DriverUserID":3,"IsAvailable":1,"AvailableSeats":0,"VehicleType":null,"VehicleNo":null,"StatusId":0,"CreatedDate":"0001-01-01T00:00:00","UpdatedDate":"0001-01-01T00:00:00"}}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 11:46:44 AM 
+Module Name : Yatra.Controllers.API.UsersController (UpdateDriverStatus(VehicleDetails=Core.Entity.VehicleDetails))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"vehicleDetails":{"DriverUserID":3,"IsAvailable":1,"AvailableSeats":0,"VehicleType":null,"VehicleNo":null,"StatusId":0,"CreatedDate":"0001-01-01T00:00:00","UpdatedDate":"0001-01-01T00:00:00"}}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 11:47:43 AM 
+Module Name : Yatra.Controllers.API.UsersController (UpdateDriverStatus(VehicleDetails=Core.Entity.VehicleDetails))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"vehicleDetails":{"DriverUserID":3,"IsAvailable":1,"AvailableSeats":0,"VehicleType":null,"VehicleNo":null,"StatusId":0,"CreatedDate":"0001-01-01T00:00:00","UpdatedDate":"0001-01-01T00:00:00"}}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 11:49:50 AM 
+Module Name : Yatra.Controllers.API.UsersController (UpdateDriverStatus(VehicleDetails=Core.Entity.VehicleDetails))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"vehicleDetails":{"DriverUserID":3,"IsAvailable":0,"AvailableSeats":0,"VehicleType":null,"VehicleNo":null,"StatusId":0,"CreatedDate":"0001-01-01T00:00:00","UpdatedDate":"0001-01-01T00:00:00"}}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 11:50:03 AM 
+Module Name : Yatra.Controllers.API.UsersController (GetAllDrivers(userAPIKey=))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"userAPIKey":""}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 11:50:12 AM 
+Module Name : Yatra.Controllers.API.UsersController (GetVehicleDetails(userAPIKey=5EBBDA7C-2714-4B34-8D9F-88E5129A11F7))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"userAPIKey":"5EBBDA7C-2714-4B34-8D9F-88E5129A11F7"}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 11:50:20 AM 
+Module Name : Yatra.Controllers.API.UsersController (UpdateDriverStatus(VehicleDetails=Core.Entity.VehicleDetails))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"vehicleDetails":{"DriverUserID":3,"IsAvailable":1,"AvailableSeats":0,"VehicleType":null,"VehicleNo":null,"StatusId":0,"CreatedDate":"0001-01-01T00:00:00","UpdatedDate":"0001-01-01T00:00:00"}}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 11:51:11 AM 
+Module Name : Yatra.Controllers.API.UsersController (UpdateDriverStatus(VehicleDetails=Core.Entity.VehicleDetails))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"vehicleDetails":{"DriverUserID":3,"IsAvailable":0,"AvailableSeats":0,"VehicleType":null,"VehicleNo":null,"StatusId":0,"CreatedDate":"0001-01-01T00:00:00","UpdatedDate":"0001-01-01T00:00:00"}}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 11:51:26 AM 
+Module Name : Yatra.Controllers.API.UsersController (UpdateDriverStatus(VehicleDetails=Core.Entity.VehicleDetails))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"vehicleDetails":{"DriverUserID":3,"IsAvailable":1,"AvailableSeats":0,"VehicleType":null,"VehicleNo":null,"StatusId":0,"CreatedDate":"0001-01-01T00:00:00","UpdatedDate":"0001-01-01T00:00:00"}}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 11:52:39 AM 
+Module Name : Yatra.Controllers.API.UsersController (GetAllDrivers(userAPIKey=))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"userAPIKey":""}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 11:52:49 AM 
+Module Name : Yatra.Controllers.API.UsersController (GetVehicleDetails(userAPIKey=5EBBDA7C-2714-4B34-8D9F-88E5129A11F7))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"userAPIKey":"5EBBDA7C-2714-4B34-8D9F-88E5129A11F7"}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 2:55:40 PM 
+Module Name : Yatra.Controllers.API.UsersController (GetVehicleDetails(userAPIKey=5EBBDA7C-2714-4B34-8D9F-88E5129A11F7))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"userAPIKey":"5EBBDA7C-2714-4B34-8D9F-88E5129A11F7"}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 2:55:57 PM 
+Module Name : Yatra.Controllers.API.UsersController (UpdateDriverStatus(VehicleDetails=Core.Entity.VehicleDetails))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"vehicleDetails":{"DriverUserID":3,"IsAvailable":0,"AvailableSeats":0,"VehicleType":null,"VehicleNo":null,"StatusId":0,"CreatedDate":"0001-01-01T00:00:00","UpdatedDate":"0001-01-01T00:00:00"}}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 2:56:03 PM 
+Module Name : Yatra.Controllers.API.UsersController (GetVehicleDetails(userAPIKey=5EBBDA7C-2714-4B34-8D9F-88E5129A11F7))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"userAPIKey":"5EBBDA7C-2714-4B34-8D9F-88E5129A11F7"}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 2:56:10 PM 
+Module Name : Yatra.Controllers.API.UsersController (GetAllDrivers(userAPIKey=))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"userAPIKey":""}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 2:57:13 PM 
+Module Name : Yatra.Controllers.API.UsersController (GetAllDrivers(userAPIKey=))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"userAPIKey":""}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 2:57:32 PM 
+Module Name : Yatra.Controllers.API.UsersController (UpdateDriverStatus(VehicleDetails=Core.Entity.VehicleDetails))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"vehicleDetails":{"DriverUserID":3,"IsAvailable":1,"AvailableSeats":0,"VehicleType":null,"VehicleNo":null,"StatusId":0,"CreatedDate":"0001-01-01T00:00:00","UpdatedDate":"0001-01-01T00:00:00"}}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 2:57:38 PM 
+Module Name : Yatra.Controllers.API.UsersController (GetVehicleDetails(userAPIKey=5EBBDA7C-2714-4B34-8D9F-88E5129A11F7))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"userAPIKey":"5EBBDA7C-2714-4B34-8D9F-88E5129A11F7"}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 2:57:43 PM 
+Module Name : Yatra.Controllers.API.UsersController (GetAllDrivers(userAPIKey=))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"userAPIKey":""}
+ 
+ 
+ 
+======================================== 
+ 

@@ -1,0 +1,223 @@
+LogTime : 2:14:46 PM 
+Module Name : Adhilabhansah.Controllers.API.UsersController (GetDriverLocation(userAPIKey=))
+
+Error Source : System.IdentityModel.Tokens.Jwt
+ 
+Error Message : IDX12709: CanReadToken() returned false. JWT is not well formed.
+The token needs to be in JWS or JWE Compact Serialization Format. (JWS): 'EncodedHeader.EndcodedPayload.EncodedSignature'. (JWE): 'EncodedProtectedHeader.EncodedEncryptedKey.EncodedInitializationVector.EncodedCiphertext.EncodedAuthenticationTag'.
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 2:22:58 PM 
+Module Name : Adhilabhansah.Controllers.API.UsersController (GetDriverLocation(userAPIKey=))
+
+Error Source : System.IdentityModel.Tokens.Jwt
+ 
+Error Message : IDX12709: CanReadToken() returned false. JWT is not well formed.
+The token needs to be in JWS or JWE Compact Serialization Format. (JWS): 'EncodedHeader.EndcodedPayload.EncodedSignature'. (JWE): 'EncodedProtectedHeader.EncodedEncryptedKey.EncodedInitializationVector.EncodedCiphertext.EncodedAuthenticationTag'.
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 2:23:21 PM 
+Module Name : Adhilabhansah.Controllers.API.UsersController (GetDriverLocation(userAPIKey=))
+
+Error Source : System.IdentityModel.Tokens.Jwt
+ 
+Error Message : IDX12709: CanReadToken() returned false. JWT is not well formed.
+The token needs to be in JWS or JWE Compact Serialization Format. (JWS): 'EncodedHeader.EndcodedPayload.EncodedSignature'. (JWE): 'EncodedProtectedHeader.EncodedEncryptedKey.EncodedInitializationVector.EncodedCiphertext.EncodedAuthenticationTag'.
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 2:24:01 PM 
+Module Name : Users (GetDistributorList ())
+
+Error Source : Core .Net SqlClient Data Provider
+ 
+Error Message : Could not find stored procedure 'Users_GetDriverLocation'.
+ 
+Error Message GetMethod FullName : OnError
+ 
+Error Message GetFileName : 
+ 
+Error Message GetFileLineNumber : 0
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 2:24:01 PM 
+Module Name : Core.Business.BusinessFacade.UsersBusinessFacade (GetDriverLocation ())
+
+Error Source : Anonymously Hosted DynamicMethods Assembly
+ 
+Error Message : Cannot implicitly convert type 'System.Collections.Generic.List<Core.Entity.Users>' to 'Core.Entity.Users'
+ 
+Error Message GetMethod FullName : CallSite.Target
+ 
+Error Message GetFileName : 
+ 
+Error Message GetFileLineNumber : 0
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 2:28:17 PM 
+Module Name : Users (GetDistributorList ())
+
+Error Source : Core .Net SqlClient Data Provider
+ 
+Error Message : Could not find stored procedure 'Users_GetDriverLocation'.
+ 
+Error Message GetMethod FullName : OnError
+ 
+Error Message GetFileName : 
+ 
+Error Message GetFileLineNumber : 0
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 2:28:18 PM 
+Module Name : Core.Business.BusinessFacade.UsersBusinessFacade (GetDriverLocation ())
+
+Error Source : Anonymously Hosted DynamicMethods Assembly
+ 
+Error Message : Cannot implicitly convert type 'System.Collections.Generic.List<Core.Entity.Users>' to 'Core.Entity.Users'
+ 
+Error Message GetMethod FullName : CallSite.Target
+ 
+Error Message GetFileName : 
+ 
+Error Message GetFileLineNumber : 0
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 2:28:45 PM 
+Module Name : Users (GetDistributorList ())
+
+Error Source : Core .Net SqlClient Data Provider
+ 
+Error Message : Could not find stored procedure 'Users_GetDriverLocation'.
+ 
+Error Message GetMethod FullName : OnError
+ 
+Error Message GetFileName : 
+ 
+Error Message GetFileLineNumber : 0
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 2:28:45 PM 
+Module Name : Core.Business.BusinessFacade.UsersBusinessFacade (GetDriverLocation ())
+
+Error Source : Anonymously Hosted DynamicMethods Assembly
+ 
+Error Message : Cannot implicitly convert type 'System.Collections.Generic.List<Core.Entity.Users>' to 'Core.Entity.Users'
+ 
+Error Message GetMethod FullName : CallSite.Target
+ 
+Error Message GetFileName : 
+ 
+Error Message GetFileLineNumber : 0
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 2:28:55 PM 
+Module Name : Users (GetDistributorList ())
+
+Error Source : Core .Net SqlClient Data Provider
+ 
+Error Message : Could not find stored procedure 'Users_GetDriverLocation'.
+ 
+Error Message GetMethod FullName : OnError
+ 
+Error Message GetFileName : 
+ 
+Error Message GetFileLineNumber : 0
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 2:28:55 PM 
+Module Name : Core.Business.BusinessFacade.UsersBusinessFacade (GetDriverLocation ())
+
+Error Source : Anonymously Hosted DynamicMethods Assembly
+ 
+Error Message : Cannot implicitly convert type 'System.Collections.Generic.List<Core.Entity.Users>' to 'Core.Entity.Users'
+ 
+Error Message GetMethod FullName : CallSite.Target
+ 
+Error Message GetFileName : 
+ 
+Error Message GetFileLineNumber : 0
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 2:31:06 PM 
+Module Name : Users (GetDistributorList ())
+
+Error Source : Core .Net SqlClient Data Provider
+ 
+Error Message : Could not find stored procedure 'Users_GetDriverLocation'.
+ 
+Error Message GetMethod FullName : OnError
+ 
+Error Message GetFileName : 
+ 
+Error Message GetFileLineNumber : 0
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 2:31:06 PM 
+Module Name : Core.Business.BusinessFacade.UsersBusinessFacade (GetDriverLocation ())
+
+Error Source : Anonymously Hosted DynamicMethods Assembly
+ 
+Error Message : Cannot implicitly convert type 'System.Collections.Generic.List<Core.Entity.Users>' to 'Core.Entity.Users'
+ 
+Error Message GetMethod FullName : CallSite.Target
+ 
+Error Message GetFileName : 
+ 
+Error Message GetFileLineNumber : 0
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 2:50:30 PM 
+Module Name : Core.Business.BusinessFacade.UsersBusinessFacade (GetDriverLocation ())
+
+Error Source : Anonymously Hosted DynamicMethods Assembly
+ 
+Error Message : Cannot implicitly convert type 'System.Collections.Generic.List<Core.Entity.Users>' to 'Core.Entity.Users'
+ 
+Error Message GetMethod FullName : CallSite.Target
+ 
+Error Message GetFileName : 
+ 
+Error Message GetFileLineNumber : 0
+ 
+ 
+ 
+======================================== 
+ 

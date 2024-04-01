@@ -1,0 +1,16 @@
+1) TokenApi
+
+  Curl:
+
+curl --location 'https://yatra.logthis.in/api/Token?apiKey=0EC17F33-FF61-4546-A89C-E24FC7373A81' \
+--header 'accept: text/plain'
+
+======================
+2) GetDriverLocation
+
+curl --location 'https://yatra.logthis.in/api/Users/GetDriverLocation' \
+--header 'Content-Type: application/json' \
+--header 'Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy
+54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1lIjoiRTMzNEEyMEQtQjc5Ny00ODJBLUE5QUMtN0ZCN
+jAyOTlBRkZDIiwiZXhwIjoxNzA5MDM3MDE1LCJpc3MiOiJodHRwczovL3lhdHJhLmxvZ3RoaXMuaW4vIiwiYXVkIjoiaHR0cHM6L
+y95YXRyYS5sb2d0aGlzLmluLyJ9.gMvsV_LTTf8envSomKZCmpZQbi8qZjV-IjWJBtlGcU4'

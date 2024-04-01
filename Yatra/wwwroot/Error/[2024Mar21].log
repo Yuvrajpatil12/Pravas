@@ -1,0 +1,17 @@
+LogTime : 6:59:58 PM 
+Module Name : Core.Business.DataAccess.Mapper.UsersDataMapper (GetDetails(sqlDataReader))
+
+Error Source : System.Data.SqlClient
+ 
+Error Message : StatusId
+ 
+Error Message GetMethod FullName : GetOrdinal
+ 
+Error Message GetFileName : 
+ 
+Error Message GetFileLineNumber : 0
+ 
+ 
+ 
+======================================== 
+ 

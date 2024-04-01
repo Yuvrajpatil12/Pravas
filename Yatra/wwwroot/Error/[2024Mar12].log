@@ -1,0 +1,11 @@
+LogTime : 8:59:09 PM 
+Module Name : Yatra.Controllers.API.UsersController (GetAllLocations())
+
+Error Source : Anonymously Hosted DynamicMethods Assembly
+ 
+Error Message : Cannot implicitly convert type 'Core.Entity.Users' to 'System.Collections.Generic.List<Core.Entity.LocationMaster>'
+ 
+ 
+ 
+======================================== 
+ 

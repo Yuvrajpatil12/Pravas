@@ -1,0 +1,101 @@
+LogTime : 4:15:23 PM 
+Module Name : Yatra.Controllers.FirebaseController (SendFirebaseNotification(FCMs:"cPFpzKvGT-G5UOv0Czg1Pq:APA91bFSIlXTvSacMHpO1jbwP4Tf7_8ircSWEPxBQjV6-h5x1Ljd4Xr1FXD8Txh8089Y3aPLnVDqBATNmI7l9pRjKbF4n2lqD6LVJeQhP9ioG-243jl4Mffm144HJVLIv2teUmNFhuAb"))
+
+Error Source : Newtonsoft.Json
+ 
+Error Message : Error reading JObject from JsonReader. Path '', line 0, position 0.
+ 
+Error Message GetMethod FullName : Load
+ 
+Error Message GetFileName : 
+ 
+Error Message GetFileLineNumber : 0
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 4:16:01 PM 
+Module Name : Yatra.Controllers.FirebaseController (SendFirebaseNotification(FCMs:"cPFpzKvGT-G5UOv0Czg1Pq:APA91bFSIlXTvSacMHpO1jbwP4Tf7_8ircSWEPxBQjV6-h5x1Ljd4Xr1FXD8Txh8089Y3aPLnVDqBATNmI7l9pRjKbF4n2lqD6LVJeQhP9ioG-243jl4Mffm144HJVLIv2teUmNFhuAb"))
+
+Error Source : Newtonsoft.Json
+ 
+Error Message : Error reading JObject from JsonReader. Path '', line 0, position 0.
+ 
+Error Message GetMethod FullName : Load
+ 
+Error Message GetFileName : 
+ 
+Error Message GetFileLineNumber : 0
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 4:17:33 PM 
+Module Name : Yatra.Controllers.FirebaseController (SendFirebaseNotification(FCMs:"cPFpzKvGT-G5UOv0Czg1Pq:APA91bFSIlXTvSacMHpO1jbwP4Tf7_8ircSWEPxBQjV6-h5x1Ljd4Xr1FXD8Txh8089Y3aPLnVDqBATNmI7l9pRjKbF4n2lqD6LVJeQhP9ioG-243jl4Mffm144HJVLIv2teUmNFhuAb"))
+
+Error Source : Newtonsoft.Json
+ 
+Error Message : Error reading JObject from JsonReader. Path '', line 0, position 0.
+ 
+Error Message GetMethod FullName : Load
+ 
+Error Message GetFileName : 
+ 
+Error Message GetFileLineNumber : 0
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 4:18:40 PM 
+Module Name : Yatra.Controllers.API.UsersController (Booking(transactions=Core.Entity.Transactions))
+
+Error Source : System.Private.CoreLib
+ 
+Error Message : Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 4:18:49 PM 
+Module Name : Yatra.Controllers.API.UsersController (Booking(transactions=Core.Entity.Transactions))
+
+Error Source : System.Private.CoreLib
+ 
+Error Message : Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 5:55:09 PM 
+Module Name : Yatra.Controllers.API.UsersController (Booking(transactions=Core.Entity.Transactions))
+
+Error Source : System.Private.CoreLib
+ 
+Error Message : Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 7:07:19 PM 
+Module Name : Yatra.Controllers.FirebaseController (SendFirebaseNotification(FCMs:"cgeLENudRGyx38QOTWsZgX:APA91bE1FAfq6G2QAZS1CHVJlGfwqGtbmX24DnzUrMDoxLRx61LWqvHHvou4vycd-hs7C9hgDdd-dHlS4Ta_oWvmuSn9t6iJUA55iWEBzlUfdtz1Ff5ogrSk_YAC32ua2hYEY7jzj0as"))
+
+Error Source : Newtonsoft.Json
+ 
+Error Message : Error reading JObject from JsonReader. Path '', line 0, position 0.
+ 
+Error Message GetMethod FullName : Load
+ 
+Error Message GetFileName : 
+ 
+Error Message GetFileLineNumber : 0
+ 
+ 
+ 
+======================================== 
+ 

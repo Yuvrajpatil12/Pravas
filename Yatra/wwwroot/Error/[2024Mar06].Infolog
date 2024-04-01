@@ -1,0 +1,11 @@
+LogTime : 4:12:06 PM 
+Module Name : Yatra.Controllers.API.UsersController (Booking(transactions=Core.Entity.Transactions))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"transactions":{"ObjectChanged":false,"ID":81,"UUID":null,"UserID":0,"DriverUserID":4,"LocationMasterIDTo":1,"LocationMasterIDFrom":1,"PickLocationLatitude":null,"PickLocationLongitude":null,"DropLocationLatitude":null,"DropLocationLongitude":null,"DriverLocationLatitudeOnBooking":"19.2061988","DriverLocationLongitudeOnBooking":"72.8322081","JourneyStartDateTime":null,"JourneyEndDateTime":null,"VerificationCode":null,"JourneyStatus":5,"JourneyStatusDateTime":"29/02/2024 10:35 AM","UserRequestDatetime":null,"StatusId":null,"CreatedDate":null,"UpdatedDate":null,"RowNumber":0,"ActionUserID":0,"FirstName":null,"LastName":null,"VehicleNo":null}}
+ 
+ 
+ 
+======================================== 
+ 

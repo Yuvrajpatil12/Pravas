@@ -1,0 +1,165 @@
+LogTime : 12:11:09 PM 
+Module Name : Yatra.Controllers.API.UsersController (GetAllLocations(userAPIKey=))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"userAPIKey":""}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 12:11:15 PM 
+Module Name : Yatra.Controllers.API.UsersController (GetAllDrivers(userAPIKey=))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"userAPIKey":""}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 12:28:44 PM 
+Module Name : Yatra.Controllers.API.UsersController (SendNotificationToAllDriver(userAPIKey=))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"userAPIKey":""}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 12:29:10 PM 
+Module Name : Yatra.Controllers.API.UsersController ([FailedCount = 1] SendFirebaseNotification_ForDeposit(FCMs = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1lIjoiNjg5MzhDRDYtQjEzNy00NEMwLUJCQ0UtMjU1OUQzRjA2NDY1IiwiZXhwIjoxNzEwNzQzNDg4LCJpc3MiOiJodHRwczovL3ByYXZhcy5sb2d0aGlzLmluLyIsImF1ZCI6Im,SchoolName=,Title= ))
+
+Error Source : 
+ 
+Error Message : Request Received
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 12:32:04 PM 
+Module Name : Yatra.Controllers.API.UsersController (SendNotificationToAllDriver(userAPIKey=))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"userAPIKey":""}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 12:33:12 PM 
+Module Name : Yatra.Controllers.API.UsersController ([FailedCount = 1] SendFirebaseNotification_ForDeposit(FCMs = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1lIjoiNjg5MzhDRDYtQjEzNy00NEMwLUJCQ0UtMjU1OUQzRjA2NDY1IiwiZXhwIjoxNzEwNzQzNDg4LCJpc3MiOiJodHRwczovL3ByYXZhcy5sb2d0aGlzLmluLyIsImF1ZCI6Im,SchoolName=,Title= ))
+
+Error Source : 
+ 
+Error Message : Request Received
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 12:33:19 PM 
+Module Name : Yatra.Controllers.API.UsersController (SendNotificationToAllDriver(userAPIKey=))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"userAPIKey":""}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 12:33:35 PM 
+Module Name : Yatra.Controllers.API.UsersController ([FailedCount = 0] SendFirebaseNotification_ForDeposit(FCMs = dIfKiklWRVGaBOTSjT6-yd:APA91bGyhGQ9uWlLjfaoUCxRoHUcFAKknB67sKzahi9TDfoRdiIyVuHr7lM-wIgH63rHx5CdcDJoy7UG2N6DAgROAK3x4KlQOOpk5kHGprczuO1Bp5qjvVTyQ0OIBKRcqXim2djuoAec,SchoolName=,Title= ))
+
+Error Source : 
+ 
+Error Message : Request Received
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 12:53:13 PM 
+Module Name : Yatra.Controllers.API.UsersController (SendNotificationToAllDriver(userAPIKey=))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"userAPIKey":""}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 12:53:29 PM 
+Module Name : Yatra.Controllers.API.UsersController ([FailedCount = 0] SendFirebaseNotification_ForDeposit(FCMs = cX3QCZXJRueiWZkhzfLo45:APA91bFJbRphxIFXidyfnnVXXo2ZF3ceRFDPvk7vfWwk-GGGJyjKwNbUgG1df-MxGmVR5jWTPTLvZERrZC2OWhI29JGzIz9BPx499D2ZdGn77GNOwwkebJaXqDH0ohOYJT4KgVe5gIXP,SchoolName=,Title= ))
+
+Error Source : 
+ 
+Error Message : Request Received
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 12:56:18 PM 
+Module Name : Yatra.Controllers.API.UsersController (SendNotificationToAllDriver(userAPIKey=))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"userAPIKey":""}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 12:56:28 PM 
+Module Name : Yatra.Controllers.API.UsersController ([FailedCount = 0] SendFirebaseNotification_ForDeposit(FCMs = cX3QCZXJRueiWZkhzfLo45:APA91bFJbRphxIFXidyfnnVXXo2ZF3ceRFDPvk7vfWwk-GGGJyjKwNbUgG1df-MxGmVR5jWTPTLvZERrZC2OWhI29JGzIz9BPx499D2ZdGn77GNOwwkebJaXqDH0ohOYJT4KgVe5gIXP,SchoolName=,Title= ))
+
+Error Source : 
+ 
+Error Message : Request Received
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 7:59:39 PM 
+Module Name : Yatra.Controllers.API.UsersController (GetAllTransactions(roleId=3))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"roleId":3}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 7:59:58 PM 
+Module Name : Yatra.Controllers.API.UsersController (GetAllTransactions(roleId=4))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"roleId":4}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 8:12:49 PM 
+Module Name : Yatra.Controllers.API.UsersController (GetAllTransactions(roleId=4))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"roleId":4}
+ 
+ 
+ 
+======================================== 
+ 

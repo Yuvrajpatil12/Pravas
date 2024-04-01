@@ -1,0 +1,484 @@
+LogTime : 11:26:04 AM 
+Module Name : Yatra.Controllers.API.UsersController (StartRide(transactions=Core.Entity.Transactions))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"transactions":{"ObjectChanged":true,"ID":0,"UUID":"string","UserID":0,"DriverUserID":0,"LocationMasterIDTo":0,"LocationMasterIDFrom":0,"PickLocationLatitude":"string","PickLocationLongitude":"string","DropLocationLatitude":"string","DropLocationLongitude":"string","DriverLocationLatitudeOnBooking":"string","DriverLocationLongitudeOnBooking":"string","JourneyStartDateTime":"string","JourneyEndDateTime":"string","VerificationCode":"string","JourneyStatus":0,"JourneyStatusDateTime":"string","UserRequestDatetime":"string","StatusId":0,"CreatedDate":"2024-02-28T05:56:00.401Z","UpdatedDate":"2024-02-28T05:56:00.401Z"}}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 11:36:09 AM 
+Module Name : Yatra.Controllers.API.UsersController (Booking(transactions=Core.Entity.Transactions))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"transactions":{"ObjectChanged":true,"ID":0,"UUID":"string","UserID":5,"DriverUserID":4,"LocationMasterIDTo":6,"LocationMasterIDFrom":3,"PickLocationLatitude":"string","PickLocationLongitude":"string","DropLocationLatitude":"string","DropLocationLongitude":"string","DriverLocationLatitudeOnBooking":"38.8951","DriverLocationLongitudeOnBooking":"77.0364","JourneyStartDateTime":"string","JourneyEndDateTime":"string","VerificationCode":"string","JourneyStatus":1,"JourneyStatusDateTime":"28/02/2024 05:02 PM","UserRequestDatetime":"string","StatusId":0,"CreatedDate":"2024-02-28T06:05:27.632Z","UpdatedDate":"2024-02-28T06:05:27.632Z"}}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 11:42:24 AM 
+Module Name : Yatra.Controllers.API.UsersController (Booking(transactions=Core.Entity.Transactions))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"transactions":{"ObjectChanged":true,"ID":0,"UUID":"string","UserID":5,"DriverUserID":4,"LocationMasterIDTo":6,"LocationMasterIDFrom":3,"PickLocationLatitude":"string","PickLocationLongitude":"string","DropLocationLatitude":"string","DropLocationLongitude":"string","DriverLocationLatitudeOnBooking":"38.8951","DriverLocationLongitudeOnBooking":"77.0364","JourneyStartDateTime":"string","JourneyEndDateTime":"string","VerificationCode":"string","JourneyStatus":1,"JourneyStatusDateTime":"28/02/2024 05:02 PM","UserRequestDatetime":"string","StatusId":0,"CreatedDate":"2024-02-28T06:05:27.632Z","UpdatedDate":"2024-02-28T06:05:27.632Z"}}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 11:42:43 AM 
+Module Name : Yatra.Controllers.API.UsersController (Booking(transactions=Core.Entity.Transactions))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"transactions":{"ObjectChanged":true,"ID":0,"UUID":"string","UserID":5,"DriverUserID":4,"LocationMasterIDTo":6,"LocationMasterIDFrom":3,"PickLocationLatitude":"string","PickLocationLongitude":"string","DropLocationLatitude":"string","DropLocationLongitude":"string","DriverLocationLatitudeOnBooking":"38.8951","DriverLocationLongitudeOnBooking":"77.0364","JourneyStartDateTime":"string","JourneyEndDateTime":"string","VerificationCode":"string","JourneyStatus":1,"JourneyStatusDateTime":"28/02/2024 05:02 PM","UserRequestDatetime":"string","StatusId":0,"CreatedDate":"2024-02-28T06:05:27.632Z","UpdatedDate":"2024-02-28T06:05:27.632Z"}}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 11:44:24 AM 
+Module Name : Yatra.Controllers.API.UsersController (Booking(transactions=Core.Entity.Transactions))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"transactions":{"ObjectChanged":true,"ID":0,"UUID":"string","UserID":5,"DriverUserID":4,"LocationMasterIDTo":6,"LocationMasterIDFrom":3,"PickLocationLatitude":"string","PickLocationLongitude":"string","DropLocationLatitude":"string","DropLocationLongitude":"string","DriverLocationLatitudeOnBooking":"38.8951","DriverLocationLongitudeOnBooking":"77.0364","JourneyStartDateTime":"string","JourneyEndDateTime":"string","VerificationCode":"string","JourneyStatus":1,"JourneyStatusDateTime":"28/02/2024 05:02 PM","UserRequestDatetime":"string","StatusId":0,"CreatedDate":"2024-02-28T06:05:27.632Z","UpdatedDate":"2024-02-28T06:05:27.632Z"}}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 11:45:12 AM 
+Module Name : Yatra.Controllers.API.UsersController (Booking(transactions=Core.Entity.Transactions))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"transactions":{"ObjectChanged":true,"ID":0,"UUID":"string","UserID":5,"DriverUserID":4,"LocationMasterIDTo":6,"LocationMasterIDFrom":3,"PickLocationLatitude":"string","PickLocationLongitude":"string","DropLocationLatitude":"string","DropLocationLongitude":"string","DriverLocationLatitudeOnBooking":"38.8951","DriverLocationLongitudeOnBooking":"77.0364","JourneyStartDateTime":"string","JourneyEndDateTime":"string","VerificationCode":"string","JourneyStatus":1,"JourneyStatusDateTime":"28/02/2024 05:02 PM","UserRequestDatetime":"string","StatusId":0,"CreatedDate":"2024-02-28T06:05:27.632Z","UpdatedDate":"2024-02-28T06:05:27.632Z"}}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 11:48:29 AM 
+Module Name : Yatra.Controllers.API.UsersController (Booking(transactions=Core.Entity.Transactions))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"transactions":{"ObjectChanged":true,"ID":0,"UUID":"string","UserID":5,"DriverUserID":4,"LocationMasterIDTo":6,"LocationMasterIDFrom":3,"PickLocationLatitude":"string","PickLocationLongitude":"string","DropLocationLatitude":"string","DropLocationLongitude":"string","DriverLocationLatitudeOnBooking":"38.8951","DriverLocationLongitudeOnBooking":"77.0364","JourneyStartDateTime":"string","JourneyEndDateTime":"string","VerificationCode":"string","JourneyStatus":1,"JourneyStatusDateTime":"28/02/2024 05:02 PM","UserRequestDatetime":"string","StatusId":0,"CreatedDate":"2024-02-28T06:05:27.632Z","UpdatedDate":"2024-02-28T06:05:27.632Z"}}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 11:49:03 AM 
+Module Name : Yatra.Controllers.API.UsersController (Booking(transactions=Core.Entity.Transactions))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"transactions":{"ObjectChanged":true,"ID":0,"UUID":"string","UserID":5,"DriverUserID":4,"LocationMasterIDTo":6,"LocationMasterIDFrom":3,"PickLocationLatitude":"string","PickLocationLongitude":"string","DropLocationLatitude":"string","DropLocationLongitude":"string","DriverLocationLatitudeOnBooking":"38.8951","DriverLocationLongitudeOnBooking":"77.0364","JourneyStartDateTime":"string","JourneyEndDateTime":"string","VerificationCode":"string","JourneyStatus":1,"JourneyStatusDateTime":"28/02/2024 05:02 PM","UserRequestDatetime":"string","StatusId":0,"CreatedDate":"2024-02-28T06:05:27.632Z","UpdatedDate":"2024-02-28T06:05:27.632Z"}}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 11:49:36 AM 
+Module Name : Yatra.Controllers.API.UsersController (Booking(transactions=Core.Entity.Transactions))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"transactions":{"ObjectChanged":true,"ID":0,"UUID":"string","UserID":5,"DriverUserID":4,"LocationMasterIDTo":6,"LocationMasterIDFrom":3,"PickLocationLatitude":"string","PickLocationLongitude":"string","DropLocationLatitude":"string","DropLocationLongitude":"string","DriverLocationLatitudeOnBooking":"38.8951","DriverLocationLongitudeOnBooking":"77.0364","JourneyStartDateTime":"string","JourneyEndDateTime":"string","VerificationCode":"string","JourneyStatus":1,"JourneyStatusDateTime":"28/02/2024 05:02 PM","UserRequestDatetime":"string","StatusId":0,"CreatedDate":"2024-02-28T06:05:27.632Z","UpdatedDate":"2024-02-28T06:05:27.632Z"}}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 11:51:45 AM 
+Module Name : Yatra.Controllers.API.UsersController (Booking(transactions=Core.Entity.Transactions))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"transactions":{"ObjectChanged":true,"ID":0,"UUID":"string","UserID":5,"DriverUserID":4,"LocationMasterIDTo":6,"LocationMasterIDFrom":3,"PickLocationLatitude":"string","PickLocationLongitude":"string","DropLocationLatitude":"string","DropLocationLongitude":"string","DriverLocationLatitudeOnBooking":"38.8951","DriverLocationLongitudeOnBooking":"77.0364","JourneyStartDateTime":"string","JourneyEndDateTime":"string","VerificationCode":"string","JourneyStatus":1,"JourneyStatusDateTime":"28/02/2024 05:02 PM","UserRequestDatetime":"string","StatusId":0,"CreatedDate":"2024-02-28T06:05:27.632Z","UpdatedDate":"2024-02-28T06:05:27.632Z"}}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 11:53:18 AM 
+Module Name : Yatra.Controllers.API.UsersController (Booking(transactions=Core.Entity.Transactions))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"transactions":{"ObjectChanged":true,"ID":3,"UUID":"string","UserID":1,"DriverUserID":1,"LocationMasterIDTo":1,"LocationMasterIDFrom":1,"PickLocationLatitude":"","PickLocationLongitude":"","DropLocationLatitude":"","DropLocationLongitude":"","DriverLocationLatitudeOnBooking":"38.8951","DriverLocationLongitudeOnBooking":"77.0364","JourneyStartDateTime":"string","JourneyEndDateTime":"string","VerificationCode":"string","JourneyStatus":1,"JourneyStatusDateTime":"28/02/2024 05:02 PM","UserRequestDatetime":"string","StatusId":0,"CreatedDate":"2024-02-28T06:05:27.632Z","UpdatedDate":"2024-02-28T06:05:27.632Z"}}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 11:53:39 AM 
+Module Name : Yatra.Controllers.API.UsersController (Booking(transactions=Core.Entity.Transactions))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"transactions":{"ObjectChanged":true,"ID":3,"UUID":"string","UserID":1,"DriverUserID":1,"LocationMasterIDTo":1,"LocationMasterIDFrom":1,"PickLocationLatitude":"","PickLocationLongitude":"","DropLocationLatitude":"","DropLocationLongitude":"","DriverLocationLatitudeOnBooking":"38.8951","DriverLocationLongitudeOnBooking":"77.0364","JourneyStartDateTime":"string","JourneyEndDateTime":"string","VerificationCode":"string","JourneyStatus":1,"JourneyStatusDateTime":"28/02/2024 05:02 PM","UserRequestDatetime":"string","StatusId":0,"CreatedDate":"2024-02-28T06:05:27.632Z","UpdatedDate":"2024-02-28T06:05:27.632Z"}}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 11:55:29 AM 
+Module Name : Yatra.Controllers.API.UsersController (Booking(transactions=Core.Entity.Transactions))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"transactions":{"ObjectChanged":true,"ID":3,"UUID":"string","UserID":1,"DriverUserID":1,"LocationMasterIDTo":1,"LocationMasterIDFrom":1,"PickLocationLatitude":"","PickLocationLongitude":"","DropLocationLatitude":"","DropLocationLongitude":"","DriverLocationLatitudeOnBooking":"38.8951","DriverLocationLongitudeOnBooking":"77.0364","JourneyStartDateTime":"string","JourneyEndDateTime":"string","VerificationCode":"string","JourneyStatus":1,"JourneyStatusDateTime":"28/02/2024 05:02 PM","UserRequestDatetime":"string","StatusId":0,"CreatedDate":"2024-02-28T06:05:27.632Z","UpdatedDate":"2024-02-28T06:05:27.632Z"}}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 12:49:02 PM 
+Module Name : Yatra.Controllers.API.UsersController (GetDriverLocation(userAPIKey=))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"userAPIKey":""}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 12:52:13 PM 
+Module Name : Yatra.Controllers.API.UsersController (GetDriverLocation(userAPIKey=))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"userAPIKey":""}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 12:53:41 PM 
+Module Name : Yatra.Controllers.API.UsersController (GetDriverLocation(userAPIKey=))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"userAPIKey":""}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 12:54:31 PM 
+Module Name : Yatra.Controllers.API.UsersController ([FailedCount = 1] SendFirebaseNotification_ForDeposit(FCMs = emyNcJ5rTO2fj1zVLvyDyX:APA91bEHZ1KeYUljhwJ3c0O8AXuVAEAaNSmhPP3EoodILuPi7x8p-THZzcmRaBhyLvfF2ToHJLDDNuD0uoMYAqjnzjPCofqHZqmHR5Enp6cqNqn23TcOBLGblUGWM-N80n8KizTaX4FT,SchoolName=,Title= ))
+
+Error Source : 
+ 
+Error Message : Request Received
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 1:43:39 PM 
+Module Name : Yatra.Controllers.API.UsersController (GetDriverLocationByID(userAPIKey=))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"userAPIKey":""}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 1:43:51 PM 
+Module Name : Yatra.Controllers.API.UsersController (GetDriverLocationByID(userAPIKey=))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"userAPIKey":""}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 1:49:54 PM 
+Module Name : Yatra.Controllers.API.UsersController (Booking(transactions=Core.Entity.Transactions))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"transactions":{"ObjectChanged":false,"ID":3,"UUID":null,"UserID":1,"DriverUserID":2,"LocationMasterIDTo":1,"LocationMasterIDFrom":1,"PickLocationLatitude":"","PickLocationLongitude":"","DropLocationLatitude":"","DropLocationLongitude":"","DriverLocationLatitudeOnBooking":"38.8951","DriverLocationLongitudeOnBooking":"77.0364","JourneyStartDateTime":"string","JourneyEndDateTime":"string","VerificationCode":"string","JourneyStatus":1,"JourneyStatusDateTime":"28/02/2024 05:02 PM","UserRequestDatetime":"string","StatusId":null,"CreatedDate":null,"UpdatedDate":null}}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 1:56:57 PM 
+Module Name : Yatra.Controllers.API.UsersController (Booking(transactions=Core.Entity.Transactions))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"transactions":{"ObjectChanged":false,"ID":3,"UUID":null,"UserID":1,"DriverUserID":2,"LocationMasterIDTo":1,"LocationMasterIDFrom":1,"PickLocationLatitude":"","PickLocationLongitude":"","DropLocationLatitude":"","DropLocationLongitude":"","DriverLocationLatitudeOnBooking":"38.8951","DriverLocationLongitudeOnBooking":"77.0364","JourneyStartDateTime":"string","JourneyEndDateTime":"string","VerificationCode":"string","JourneyStatus":1,"JourneyStatusDateTime":"28/02/2024 05:02 PM","UserRequestDatetime":"string","StatusId":null,"CreatedDate":null,"UpdatedDate":null}}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 1:57:32 PM 
+Module Name : Yatra.Controllers.API.UsersController (StartRide(transactions=Core.Entity.Transactions))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"transactions":{"ObjectChanged":false,"ID":3,"UUID":null,"UserID":1,"DriverUserID":1,"LocationMasterIDTo":1,"LocationMasterIDFrom":1,"PickLocationLatitude":"","PickLocationLongitude":"","DropLocationLatitude":"","DropLocationLongitude":"","DriverLocationLatitudeOnBooking":"38.8951","DriverLocationLongitudeOnBooking":"77.0364","JourneyStartDateTime":"string","JourneyEndDateTime":"string","VerificationCode":"string","JourneyStatus":1,"JourneyStatusDateTime":"28/02/2024 05:02 PM","UserRequestDatetime":"string","StatusId":null,"CreatedDate":null,"UpdatedDate":null}}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 3:09:45 PM 
+Module Name : Yatra.Controllers.API.UsersController (GetDriverLocationByID(userAPIKey=))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"userAPIKey":""}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 3:11:03 PM 
+Module Name : Yatra.Controllers.API.UsersController (SendNotificationToAllDriver(userAPIKey=))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"userAPIKey":""}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 3:12:28 PM 
+Module Name : Yatra.Controllers.API.UsersController ([FailedCount = 1] SendFirebaseNotification_ForDeposit(FCMs = emyNcJ5rTO2fj1zVLvyDyX:APA91bEHZ1KeYUljhwJ3c0O8AXuVAEAaNSmhPP3EoodILuPi7x8p-THZzcmRaBhyLvfF2ToHJLDDNuD0uoMYAqjnzjPCofqHZqmHR5Enp6cqNqn23TcOBLGblUGWM-N80n8KizTaX4FT,SchoolName=,Title= ))
+
+Error Source : 
+ 
+Error Message : Request Received
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 3:14:46 PM 
+Module Name : Yatra.Controllers.API.UsersController (SendNotificationToAllDriver(userAPIKey=))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"userAPIKey":""}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 3:14:46 PM 
+Module Name : Yatra.Controllers.API.UsersController ([FailedCount = 1] SendFirebaseNotification_ForDeposit(FCMs = emyNcJ5rTO2fj1zVLvyDyX:APA91bEHZ1KeYUljhwJ3c0O8AXuVAEAaNSmhPP3EoodILuPi7x8p-THZzcmRaBhyLvfF2ToHJLDDNuD0uoMYAqjnzjPCofqHZqmHR5Enp6cqNqn23TcOBLGblUGWM-N80n8KizTaX4FT,SchoolName=,Title= ))
+
+Error Source : 
+ 
+Error Message : Request Received
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 3:16:30 PM 
+Module Name : Yatra.Controllers.API.UsersController (SendNotificationToAllDriver(userAPIKey=))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"userAPIKey":""}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 3:16:39 PM 
+Module Name : Yatra.Controllers.API.UsersController ([FailedCount = 1] SendFirebaseNotification_ForDeposit(FCMs = emyNcJ5rTO2fj1zVLvyDyX:APA91bEHZ1KeYUljhwJ3c0O8AXuVAEAaNSmhPP3EoodILuPi7x8p-THZzcmRaBhyLvfF2ToHJLDDNuD0uoMYAqjnzjPCofqHZqmHR5Enp6cqNqn23TcOBLGblUGWM-N80n8KizTaX4FT,SchoolName=,Title= ))
+
+Error Source : 
+ 
+Error Message : Request Received
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 3:17:08 PM 
+Module Name : Yatra.Controllers.API.UsersController (Booking(transactions=Core.Entity.Transactions))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"transactions":{"ObjectChanged":false,"ID":3,"UUID":null,"UserID":1,"DriverUserID":2,"LocationMasterIDTo":1,"LocationMasterIDFrom":1,"PickLocationLatitude":"","PickLocationLongitude":"","DropLocationLatitude":"","DropLocationLongitude":"","DriverLocationLatitudeOnBooking":"38.8951","DriverLocationLongitudeOnBooking":"77.0364","JourneyStartDateTime":"string","JourneyEndDateTime":"string","VerificationCode":"string","JourneyStatus":1,"JourneyStatusDateTime":"28/02/2024 05:02 PM","UserRequestDatetime":"string","StatusId":null,"CreatedDate":null,"UpdatedDate":null}}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 3:20:44 PM 
+Module Name : Yatra.Controllers.API.UsersController (GetDriverLocationByID(userAPIKey=))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"userAPIKey":""}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 3:21:07 PM 
+Module Name : Yatra.Controllers.API.UsersController (GetDriverLocationByID(userAPIKey=))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"userAPIKey":""}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 3:22:17 PM 
+Module Name : Yatra.Controllers.API.UsersController (GetDriverLocationByID(userAPIKey=))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"userAPIKey":""}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 3:22:28 PM 
+Module Name : Yatra.Controllers.API.UsersController (GetDriverLocationByID(userAPIKey=))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"userAPIKey":""}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 6:12:41 PM 
+Module Name : Yatra.Controllers.API.UsersController (SendNotificationToAllDriver(userAPIKey=))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"userAPIKey":""}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 6:19:06 PM 
+Module Name : Yatra.Controllers.API.UsersController ([FailedCount = 0] SendFirebaseNotification_ForDeposit(FCMs = dhSu5sKKV0jJqdzlgi6c9E:APA91bGJC3NAnk5DDzBi1ee0jLCeCsIz84_yF-VykX0ylnxUa97WHXabWXNkZiRiwtrl7aUxBEm44kniMKoLEbDKOIitQoSt21Sd9rYeZ7RoEXCbC61IZQX3Vhi_s7g6q2P6JOFWEXNn,eteihw1xQjeecaWqIsUW2b:APA91bHqZmPZq547EEpzJrb-XiNr1HActzSRJnabcU-OsQZDJi3zaOIdbOsc_hsu7xXzqZBddWG4kMa-Gp_X8dAKbXU6jOaq8t74M2lGq6VPfXRb11rjYkTBO9vTebtgnm5R3BQtT4FJ,SchoolName=,Title= ))
+
+Error Source : 
+ 
+Error Message : Request Received
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 6:23:13 PM 
+Module Name : Yatra.Controllers.API.UsersController (SendNotificationToAllDriver(userAPIKey=))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"userAPIKey":""}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 6:23:28 PM 
+Module Name : Yatra.Controllers.API.UsersController ([FailedCount = 0] SendFirebaseNotification_ForDeposit(FCMs = dSBxXrjGQl2TrluAU7nbHv:APA91bH7NtzlEsaH5SMRmESVsZ3bovUcDiiG5GqYZl_FYSyu52pHpjJOgoiqmPhT4-dazCyvlwyhvDCU_cTpUTbaoTNkPtjKF4J5Z9lgXWnMU1SJRL8xVawOSju4WSEm9MjXCWR6Uu-L,dhSu5sKKV0jJqdzlgi6c9E:APA91bGJC3NAnk5DDzBi1ee0jLCeCsIz84_yF-VykX0ylnxUa97WHXabWXNkZiRiwtrl7aUxBEm44kniMKoLEbDKOIitQoSt21Sd9rYeZ7RoEXCbC61IZQX3Vhi_s7g6q2P6JOFWEXNn,SchoolName=,Title= ))
+
+Error Source : 
+ 
+Error Message : Request Received
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 6:27:08 PM 
+Module Name : Yatra.Controllers.API.UsersController (Booking(transactions=Core.Entity.Transactions))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"transactions":{"ObjectChanged":false,"ID":1,"UUID":null,"UserID":6,"DriverUserID":3,"LocationMasterIDTo":1,"LocationMasterIDFrom":1,"PickLocationLatitude":"","PickLocationLongitude":"","DropLocationLatitude":"","DropLocationLongitude":"","DriverLocationLatitudeOnBooking":"38.8951","DriverLocationLongitudeOnBooking":"77.0364","JourneyStartDateTime":"string","JourneyEndDateTime":"string","VerificationCode":"string","JourneyStatus":1,"JourneyStatusDateTime":"28/02/2024 05:02 PM","UserRequestDatetime":"string","StatusId":null,"CreatedDate":null,"UpdatedDate":null}}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 6:27:20 PM 
+Module Name : Yatra.Controllers.API.UsersController ([FailedCount = 0] SendFirebaseNotification_ForDeposit(FCMs = dSBxXrjGQl2TrluAU7nbHv:APA91bH7NtzlEsaH5SMRmESVsZ3bovUcDiiG5GqYZl_FYSyu52pHpjJOgoiqmPhT4-dazCyvlwyhvDCU_cTpUTbaoTNkPtjKF4J5Z9lgXWnMU1SJRL8xVawOSju4WSEm9MjXCWR6Uu-L,SchoolName=,Title= ))
+
+Error Source : 
+ 
+Error Message : Request Received
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 7:50:20 PM 
+Module Name : Yatra.Controllers.API.UsersController (ConfirmBooking(transactions=Core.Entity.Transactions))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"transactions":{"ObjectChanged":false,"ID":1,"UUID":null,"UserID":6,"DriverUserID":3,"LocationMasterIDTo":1,"LocationMasterIDFrom":1,"PickLocationLatitude":"","PickLocationLongitude":"","DropLocationLatitude":"","DropLocationLongitude":"","DriverLocationLatitudeOnBooking":"38.8951","DriverLocationLongitudeOnBooking":"77.0364","JourneyStartDateTime":"string","JourneyEndDateTime":"string","VerificationCode":"string","JourneyStatus":1,"JourneyStatusDateTime":"28/02/2024 05:02 PM","UserRequestDatetime":"string","StatusId":null,"CreatedDate":null,"UpdatedDate":null}}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 7:54:03 PM 
+Module Name : Yatra.Controllers.API.UsersController (ConfirmBooking(transactions=Core.Entity.Transactions))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"transactions":{"ObjectChanged":false,"ID":1,"UUID":null,"UserID":6,"DriverUserID":3,"LocationMasterIDTo":1,"LocationMasterIDFrom":1,"PickLocationLatitude":"","PickLocationLongitude":"","DropLocationLatitude":"","DropLocationLongitude":"","DriverLocationLatitudeOnBooking":"38.8951","DriverLocationLongitudeOnBooking":"77.0364","JourneyStartDateTime":"string","JourneyEndDateTime":"string","VerificationCode":"5169","JourneyStatus":2,"JourneyStatusDateTime":"28/02/2024 05:02 PM","UserRequestDatetime":"string","StatusId":null,"CreatedDate":null,"UpdatedDate":null}}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 7:55:38 PM 
+Module Name : Yatra.Controllers.API.UsersController (ConfirmBooking(transactions=Core.Entity.Transactions))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"transactions":{"ObjectChanged":false,"ID":1,"UUID":null,"UserID":6,"DriverUserID":3,"LocationMasterIDTo":1,"LocationMasterIDFrom":1,"PickLocationLatitude":"","PickLocationLongitude":"","DropLocationLatitude":"","DropLocationLongitude":"","DriverLocationLatitudeOnBooking":"38.8951","DriverLocationLongitudeOnBooking":"77.0364","JourneyStartDateTime":"string","JourneyEndDateTime":"string","VerificationCode":"5169","JourneyStatus":2,"JourneyStatusDateTime":"28/02/2024 05:02 PM","UserRequestDatetime":"string","StatusId":null,"CreatedDate":null,"UpdatedDate":null}}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 7:57:50 PM 
+Module Name : Yatra.Controllers.API.UsersController (RideCompleted(transactions=Core.Entity.Transactions))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"transactions":{"ObjectChanged":false,"ID":1,"UUID":null,"UserID":6,"DriverUserID":3,"LocationMasterIDTo":1,"LocationMasterIDFrom":1,"PickLocationLatitude":"","PickLocationLongitude":"","DropLocationLatitude":"","DropLocationLongitude":"","DriverLocationLatitudeOnBooking":"38.8951","DriverLocationLongitudeOnBooking":"77.0364","JourneyStartDateTime":"string","JourneyEndDateTime":"string","VerificationCode":"string","JourneyStatus":3,"JourneyStatusDateTime":"28/02/2024 05:02 PM","UserRequestDatetime":"string","StatusId":null,"CreatedDate":null,"UpdatedDate":null}}
+ 
+ 
+ 
+======================================== 
+ 

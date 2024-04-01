@@ -1,0 +1,36 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Select.HtmlToPdf.NetCore" Version="23.2.0" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Core.Entity\Core.Entity.csproj" />
+    <ProjectReference Include="..\Core.Resources\Core.Resources.csproj" />
+    <ProjectReference Include="..\Core.Utility\Core.Utility.csproj" />
+
+	  <Reference Include="CommonUtilities">
+		  <HintPath>..\Adhilabhansah\REF\CommonUtilities.dll</HintPath>
+	  </Reference>
+	  <Reference Include="HtmlAgilityPack">
+		  <HintPath>..\Adhilabhansah\REF\HtmlAgilityPack.dll</HintPath>
+	  </Reference>
+	  <Reference Include="LanguageUtility">
+		  <HintPath>..\Adhilabhansah\REF\LanguageUtility.dll</HintPath>
+	  </Reference>
+	  <Reference Include="Newtonsoft.Json">
+		  <HintPath>..\Adhilabhansah\REF\Newtonsoft.Json.dll</HintPath>
+	  </Reference>
+	  <Reference Include="System.Web.Http">
+		  <HintPath>..\Adhilabhansah\REF\System.Web.Http.dll</HintPath>
+	  </Reference>
+  </ItemGroup>
+
+</Project>

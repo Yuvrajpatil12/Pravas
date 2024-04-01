@@ -1,0 +1,33 @@
+LogTime : 12:22:45 PM 
+Module Name : Yatra.Controllers.API.UsersController (GetAllTransactions(roleId=4))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"roleId":4}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 12:22:54 PM 
+Module Name : Yatra.Controllers.API.UsersController (GetAllTransactions(userAPIKey=4))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"roleId":4}
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 12:23:23 PM 
+Module Name : Yatra.Controllers.API.UsersController (GetAllTransactions(userAPIKey=4))
+
+Error Source : INFO LOG 
+ 
+Error Message : {"roleId":4}
+ 
+ 
+ 
+======================================== 
+ 

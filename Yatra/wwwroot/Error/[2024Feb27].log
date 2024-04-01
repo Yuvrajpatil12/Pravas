@@ -1,0 +1,92 @@
+LogTime : 12:10:53 PM 
+Module Name : Yatra.Controllers.API.UsersController (GetDriverLocation(userAPIKey=))
+
+Error Source : System.IdentityModel.Tokens.Jwt
+ 
+Error Message : IDX12709: CanReadToken() returned false. JWT is not well formed.
+The token needs to be in JWS or JWE Compact Serialization Format. (JWS): 'EncodedHeader.EndcodedPayload.EncodedSignature'. (JWE): 'EncodedProtectedHeader.EncodedEncryptedKey.EncodedInitializationVector.EncodedCiphertext.EncodedAuthenticationTag'.
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 12:18:02 PM 
+Module Name : Yatra.Controllers.API.UsersController (GetDriverLocation(userAPIKey=))
+
+Error Source : System.IdentityModel.Tokens.Jwt
+ 
+Error Message : IDX12709: CanReadToken() returned false. JWT is not well formed.
+The token needs to be in JWS or JWE Compact Serialization Format. (JWS): 'EncodedHeader.EndcodedPayload.EncodedSignature'. (JWE): 'EncodedProtectedHeader.EncodedEncryptedKey.EncodedInitializationVector.EncodedCiphertext.EncodedAuthenticationTag'.
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 12:20:20 PM 
+Module Name : Users (GetDriverRecords())
+
+Error Source : Core .Net SqlClient Data Provider
+ 
+Error Message : Could not find stored procedure 'Users_GetDriverRecords'.
+ 
+Error Message GetMethod FullName : OnError
+ 
+Error Message GetFileName : 
+ 
+Error Message GetFileLineNumber : 0
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 12:20:26 PM 
+Module Name : Users (GetDriverRecords())
+
+Error Source : Core .Net SqlClient Data Provider
+ 
+Error Message : Could not find stored procedure 'Users_GetDriverRecords'.
+ 
+Error Message GetMethod FullName : OnError
+ 
+Error Message GetFileName : 
+ 
+Error Message GetFileLineNumber : 0
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 12:26:19 PM 
+Module Name : Yatra.Controllers.FirebaseController (SendFirebaseNotification(FCMs:"emyNcJ5rTO2fj1zVLvyDyX:APA91bEHZ1KeYUljhwJ3c0O8AXuVAEAaNSmhPP3EoodILuPi7x8p-THZzcmRaBhyLvfF2ToHJLDDNuD0uoMYAqjnzjPCofqHZqmHR5Enp6cqNqn23TcOBLGblUGWM-N80n8KizTaX4FT",userName:, title: , subtitle:, subHeading:, ImageURL:,OpeartionalURL:))
+
+Error Source : System.Private.CoreLib
+ 
+Error Message : Value cannot be null. (Parameter 's')
+ 
+Error Message GetMethod FullName : ThrowArgumentNullException
+ 
+Error Message GetFileName : 
+ 
+Error Message GetFileLineNumber : 0
+ 
+ 
+ 
+======================================== 
+ 
+LogTime : 12:41:41 PM 
+Module Name : Yatra.Controllers.FirebaseController (SendFirebaseNotification(FCMs:"emyNcJ5rTO2fj1zVLvyDyX:APA91bEHZ1KeYUljhwJ3c0O8AXuVAEAaNSmhPP3EoodILuPi7x8p-THZzcmRaBhyLvfF2ToHJLDDNuD0uoMYAqjnzjPCofqHZqmHR5Enp6cqNqn23TcOBLGblUGWM-N80n8KizTaX4FT",userName:, title: , subtitle:, subHeading:, ImageURL:,OpeartionalURL:))
+
+Error Source : System.Net.Http
+ 
+Error Message : Response status code does not indicate success: 401 (INVALID_KEY).
+ 
+Error Message GetMethod FullName : EnsureSuccessStatusCode
+ 
+Error Message GetFileName : 
+ 
+Error Message GetFileLineNumber : 0
+ 
+ 
+ 
+======================================== 
+ 
